@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="filecpuinfo"></string>
+    <boolean name="in_resch_ignoresystem" value="true" />
+    <boolean name="halffloathack" value="false" />
+    <string name="fpscounterstate">0</string>
+    <string name="glrenderer">Mali-T880</string>
+    <boolean name="emumapbuffer" value="false" />
+    <boolean name="in_resch_square" value="false" />
+    <boolean name="multisizefbo" value="false" />
+    <string name="glversion">OpenGL ES 3.0 v1.r12p1-00dev0.27b805bb59f25c11f063c0483af978f2</string>
+    <boolean name="in_resch_shader" value="false" />
+    <string name="lowres">0</string>
+    <string name="filecpupresent">/data/data/com.n0n3m4.gltools/files/8cpupresent</string>
+    <boolean name="force16bit" value="false" />
+    <string name="pkgname">ANYTHING</string>
+    <string name="glvendor">ARM</string>
+    <boolean name="disablevbo" value="false" />
+    <boolean name="usefakefiles" value="true" />
+    <boolean name="optimizeglsl" value="false" />
+    <boolean name="in_resch_ignorezerodepth" value="false" />
+    <boolean name="in_resch_framebuffer" value="true" />
+    <boolean name="in_resch_egl_origsize" value="false" />
+    <boolean name="in_resch_copytex" value="true" />
+    <boolean name="allowioctlram" value="false" />
+    <boolean name="allowfbmsaa" value="false" />
+    <boolean name="shaderorderhack" value="false" />
+    <string name="fpscounterdelay">250</string>
+    <string name="filememinfo">/data/data/com.n0n3m4.gltools/files/8gbmeminfo</string>
+    <boolean name="in_resch_ignoresystem_fb" value="true" />
+    <boolean name="in_resch_viewscissor" value="true" />
+    <string name="fpscounterlocation">1</string>
+    <boolean name="custom_enable" value="true" />
+    <string name="fileconfiggz"></string>
+    <string name="fake_resch">0</string>
+    <string name="glextensions">GL_OES_compressed_ETC1_RGB8_texture GL_ARM_mali_program_binary GL_ARM_mali_shader_binary</string>
+    <string name="cmsaa">0</string>
+    <boolean name="usefakestrings" value="true" />
+    <boolean name="decodesrgb" value="false" />
+    <boolean name="in_resch_viewscissor_get" value="false" />
+    <boolean name="unitestencil" value="false" />
+</map>

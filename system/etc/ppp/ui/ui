@@ -1,0 +1,2891 @@
+#!/system/bin/sh
+clear
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "\e[91;1m"
+cat<< "EOF"
+                                        
+                                               ,---,        
+                                              '  .' \       
+                                             /  ;    '.     
+                                            :  :       \    
+                                            :  |   /\   \   
+                                            |  :  ' ;.   :  
+                                            |  |  ;/  \   \ 
+                                            '  :  | \  \ ,' 
+                                            |  |  '  '--'   
+                                            |  :  :         
+                                            |  | ,'         
+                                            `--''           
+
+EOF
+echo -e "\e[0m"
+sleep 0.5
+clear
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "\e[95;1m"
+cat<< "EOF"                             
+                                                                    ,--. 
+                                               ,---,              ,--.'| 
+                                              '  .' \         ,--,:  : | 
+                                             /  ;    '.    ,`--.'`|  ' : 
+                                            :  :       \   |   :  :  | | 
+                                            :  |   /\   \  :   |   \ | : 
+                                            |  :  ' ;.   : |   : '  '; | 
+                                            |  |  ;/  \   \'   ' ;.    ; 
+                                            '  :  | \  \ ,'|   | | \   | 
+                                            |  |  '  '--'  '   : |  ; .' 
+                                            |  :  :        |   | '`--'   
+                                            |  | ,'        '   : |       
+                                            `--''          ;   |.'       
+                                                           '---'         
+EOF
+echo -e "\e[0m"
+sleep 0.5
+clear
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "\e[94;1m"
+cat<< "EOF"
+                                                                    ,--.         
+                                               ,---,              ,--.'|   ,---, 
+                                              '  .' \         ,--,:  : |,`--.' | 
+                                             /  ;    '.    ,`--.'`|  ' :|   :  : 
+                                            :  :       \   |   :  :  | |:   |  ' 
+                                            :  |   /\   \  :   |   \ | :|   :  | 
+                                            |  :  ' ;.   : |   : '  '; |'   '  ; 
+                                            |  |  ;/  \   \'   ' ;.    ;|   |  | 
+                                            '  :  | \  \ ,'|   | | \   |'   :  ; 
+                                            |  |  '  '--'  '   : |  ; .'|   |  ' 
+                                            |  :  :        |   | '`--'  '   :  | 
+                                            |  | ,'        '   : |      ;   |.'  
+                                            `--''          ;   |.'      '---'    
+                                                           '---'                 
+EOF
+echo -e "\e[0m"
+sleep 0.5
+clear
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "\e[91;1m"
+cat<< "EOF"                                                     
+                                                                    ,--.                  ____   
+                                               ,---,              ,--.'|   ,---,        ,'  , `. 
+                                              '  .' \         ,--,:  : |,`--.' |     ,-+-,.' _ | 
+                                             /  ;    '.    ,`--.'`|  ' :|   :  :  ,-+-. ;   , || 
+                                            :  :       \   |   :  :  | |:   |  ' ,--.'|'   |  ;| 
+                                            :  |   /\   \  :   |   \ | :|   :  ||   |  ,', |  ': 
+                                            |  :  ' ;.   : |   : '  '; |'   '  ;|   | /  | |  || 
+                                            |  |  ;/  \   \'   ' ;.    ;|   |  |'   | :  | :  |, 
+                                            '  :  | \  \ ,'|   | | \   |'   :  ;;   . |  ; |--'  
+                                            |  |  '  '--'  '   : |  ; .'|   |  '|   : |  | ,     
+                                            |  :  :        |   | '`--'  '   :  ||   : '  |/      
+                                            |  | ,'        '   : |      ;   |.' ;   | |`-'       
+                                            `--''          ;   |.'      '---'   |   ;/           
+                                                           '---'                '---'            
+EOF
+echo -e "\e[0m"
+sleep 0.5
+clear
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "\e[95;1m"
+cat<< "EOF"
+                                                                    ,--.                  ____                 
+                                               ,---,              ,--.'|   ,---,        ,'  , `.               
+                                              '  .' \         ,--,:  : |,`--.' |     ,-+-,.' _ |         ,--,  
+                                             /  ;    '.    ,`--.'`|  ' :|   :  :  ,-+-. ;   , ||       ,'_ /|  
+                                            :  :       \   |   :  :  | |:   |  ' ,--.'|'   |  ;|  .--. |  | :  
+                                            :  |   /\   \  :   |   \ | :|   :  ||   |  ,', |  ':,'_ /| :  . |  
+                                            |  :  ' ;.   : |   : '  '; |'   '  ;|   | /  | |  |||  ' | |  . .  
+                                            |  |  ;/  \   \'   ' ;.    ;|   |  |'   | :  | :  |,|  | ' |  | |  
+                                            '  :  | \  \ ,'|   | | \   |'   :  ;;   . |  ; |--' :  | | :  ' ;  
+                                            |  |  '  '--'  '   : |  ; .'|   |  '|   : |  | ,    |  ; ' |  | '  
+                                            |  :  :        |   | '`--'  '   :  ||   : '  |/     :  | : ;  ; |  
+                                            |  | ,'        '   : |      ;   |.' ;   | |`-'      '  :  `--'   \ 
+                                            `--''          ;   |.'      '---'   |   ;/          :  ,      .-./ 
+                                                           '---'                '---'            `--`----'     
+EOF
+echo -e "\e[0m"
+sleep 0.5
+clear
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "\e[94;1m"
+cat<< "EOF"
+                                                                    ,--.                  ____                            
+                                               ,---,              ,--.'|   ,---,        ,'  , `.               .--.--.    
+                                              '  .' \         ,--,:  : |,`--.' |     ,-+-,.' _ |         ,--, /  /    '.  
+                                             /  ;    '.    ,`--.'`|  ' :|   :  :  ,-+-. ;   , ||       ,'_ /||  :  /`. /  
+                                            :  :       \   |   :  :  | |:   |  ' ,--.'|'   |  ;|  .--. |  | :;  |  |--`   
+                                            :  |   /\   \  :   |   \ | :|   :  ||   |  ,', |  ':,'_ /| :  . ||  :  ;_     
+                                            |  :  ' ;.   : |   : '  '; |'   '  ;|   | /  | |  |||  ' | |  . . \  \    `.  
+                                            |  |  ;/  \   \'   ' ;.    ;|   |  |'   | :  | :  |,|  | ' |  | |  `----.   \ 
+                                            '  :  | \  \ ,'|   | | \   |'   :  ;;   . |  ; |--' :  | | :  ' ;  __ \  \  | 
+                                            |  |  '  '--'  '   : |  ; .'|   |  '|   : |  | ,    |  ; ' |  | ' /  /`--'  / 
+                                            |  :  :        |   | '`--'  '   :  ||   : '  |/     :  | : ;  ; |'--'.     /  
+                                            |  | ,'        '   : |      ;   |.' ;   | |`-'      '  :  `--'   \ `--'---'   
+                                            `--''          ;   |.'      '---'   |   ;/          :  ,      .-./            
+                                                           '---'                '---'            `--`----'                
+                                                                    - BEYOND YOUR @IMAGINATION
+EOF
+echo -e "\e[0m"
+sleep 0.5
+clear
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "\e[91;1m"
+cat<< "EOF"
+                                                                    ,--.                  ____                            
+                                               ,---,              ,--.'|   ,---,        ,'  , `.               .--.--.    
+                                              '  .' \         ,--,:  : |,`--.' |     ,-+-,.' _ |         ,--, /  /    '.  
+                                             /  ;    '.    ,`--.'`|  ' :|   :  :  ,-+-. ;   , ||       ,'_ /||  :  /`. /  
+                                            :  :       \   |   :  :  | |:   |  ' ,--.'|'   |  ;|  .--. |  | :;  |  |--`   
+                                            :  |   /\   \  :   |   \ | :|   :  ||   |  ,', |  ':,'_ /| :  . ||  :  ;_     
+                                            |  :  ' ;.   : |   : '  '; |'   '  ;|   | /  | |  |||  ' | |  . . \  \    `.  
+                                            |  |  ;/  \   \'   ' ;.    ;|   |  |'   | :  | :  |,|  | ' |  | |  `----.   \ 
+                                            '  :  | \  \ ,'|   | | \   |'   :  ;;   . |  ; |--' :  | | :  ' ;  __ \  \  | 
+                                            |  |  '  '--'  '   : |  ; .'|   |  '|   : |  | ,    |  ; ' |  | ' /  /`--'  / 
+                                            |  :  :        |   | '`--'  '   :  ||   : '  |/     :  | : ;  ; |'--'.     /  
+                                            |  | ,'        '   : |      ;   |.' ;   | |`-'      '  :  `--'   \ `--'---'   
+                                            `--''          ;   |.'      '---'   |   ;/          :  ,      .-./            
+                                                           '---'                '---'            `--`----'                
+                                                                    - BEYOND YOUR @IMAGINATION
+EOF
+echo -e "\e[0m"
+sleep 0.5
+clear
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "\e[95;1m"
+cat<< "EOF"
+                                                                    ,--.                  ____                            
+                                               ,---,              ,--.'|   ,---,        ,'  , `.               .--.--.    
+                                              '  .' \         ,--,:  : |,`--.' |     ,-+-,.' _ |         ,--, /  /    '.  
+                                             /  ;    '.    ,`--.'`|  ' :|   :  :  ,-+-. ;   , ||       ,'_ /||  :  /`. /  
+                                            :  :       \   |   :  :  | |:   |  ' ,--.'|'   |  ;|  .--. |  | :;  |  |--`   
+                                            :  |   /\   \  :   |   \ | :|   :  ||   |  ,', |  ':,'_ /| :  . ||  :  ;_     
+                                            |  :  ' ;.   : |   : '  '; |'   '  ;|   | /  | |  |||  ' | |  . . \  \    `.  
+                                            |  |  ;/  \   \'   ' ;.    ;|   |  |'   | :  | :  |,|  | ' |  | |  `----.   \ 
+                                            '  :  | \  \ ,'|   | | \   |'   :  ;;   . |  ; |--' :  | | :  ' ;  __ \  \  | 
+                                            |  |  '  '--'  '   : |  ; .'|   |  '|   : |  | ,    |  ; ' |  | ' /  /`--'  / 
+                                            |  :  :        |   | '`--'  '   :  ||   : '  |/     :  | : ;  ; |'--'.     /  
+                                            |  | ,'        '   : |      ;   |.' ;   | |`-'      '  :  `--'   \ `--'---'   
+                                            `--''          ;   |.'      '---'   |   ;/          :  ,      .-./            
+                                                           '---'                '---'            `--`----'                
+                                                                    - BEYOND YOUR @IMAGINATION
+EOF
+echo -e "\e[0m"
+sleep 0.5
+sleep 2
+while
+do
+clear
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * \e[0m"
+echo -e " "
+echo -e "\e[94;1m"
+cat<< "EOF"
+                                _____ __________  _________________________________________  ________ ________    ________    _________
+                               /  _  \\______   \/   _____/\__    ___/\_   _____/\______   \/  _____/ \_____  \   \_____  \  /   _____/
+                              /  /_\  \|    |  _/\_____  \   |    |    |    __)_  |       _/   \  ___  /   |   \   /   |   \ \_____  \ 
+                             /    |    \    |   \/        \  |    |    |        \ |    |   \    \_\  \/    |    \ /    |    \/        \
+                             \____|__  /______  /_______  /  |____|   /_______  / |____|_  /\______  /\_______  / \_______  /_______  /
+                                     \/       \/        \/                    \/         \/        \/         \/          \/        \/ 
+EOF
+echo -e "\e[0m"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * \e[0m"
+sleep 0.1
+echo -e " "
+s1=$(df /data/ | awk '/^\/dev/ {print $1}')
+s2=$(date)
+m1=$(cat /system/usr/share/alsa/pcm/aos.txt)
+st=$(cat /system/usr/share/alsa/pcm/animus.txt)
+echo -e "\e[0;1m \e[96;1m[ Operating System :-  "$m1"  ]\e[0m"
+sleep 0.1
+echo -e "\e[96;1m [ Animus Version:- $st ]\e[0m"
+sleep 0.1
+echo -e "\e[0;1m \e[96;1m[ Current Date & time :- [$s2] ]\e[0m"
+sleep 0.1
+echo -e " "
+echo -e " "
+echo -e " "
+echo -e "                                                             \e[94;1m* * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "                                                             \e[91;1m*                WELCOME TO ANIMUS                *\e[0m"
+echo -e "                                                             \e[94;1m* * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e " "
+echo -e " "
+sleep 0.1
+echo -e "                                                              \e[91;1m [1] INSTALLER.\e[0m"
+sleep 0.1
+echo -e " "
+echo -e "                                                              \e[94;1m [2] BEAST MODE.\e[0m"
+sleep 0.1
+echo -e " "
+echo -e "                                                              \e[91;1m [3] GL TOOL MODE.\e[0m"
+sleep 0.1
+echo -e " "
+echo -e "                                                              \e[94;1m [4] GAME-ZONE.\e[0m"
+sleep 0.1
+echo -e " "
+echo -e "                                                              \e[91;1m [5] SYSTEM TWEAKS.\e[0m"
+sleep 0.1
+echo -e " "
+echo -e "                                                              \e[94;1m [6] ANIMUS SPECIAL.\e[0m"
+sleep 0.1
+echo -e " "
+echo -e "                                                              \e[91;1m [e] EXIT ANIMUS.\e[0m"
+sleep 0.1
+echo -e " "
+echo -e " "
+echo -e " "
+  echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * \e[0m"
+  echo -e "\e[94;1m [a] About.                  [r] Reboot.                 [s] System Specs. Beta.                 [h] Power-Off.                  [c] Credits.                    [u] Contact Us.\e[0m"
+  echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * \e[0m"
+  echo -n "\e[98;1mEnter Your Menu Choice [1-6]:"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[94;1m*                                                                 *"
+cat <<"EOF"
+*  _____ _   _  _____ _______       _      _      ______ _____    *
+* |_   _| \ | |/ ____|__   __|/\   | |    | |    |  ____|  __ \   *
+*   | | |  \| | (___    | |  /  \  | |    | |    | |__  | |__) |  *
+*   | | | . ` |\___ \   | | / /\ \ | |    | |    |  __| |  _  /   *
+*  _| |_| |\  |____) |  | |/ ____ \| |____| |____| |____| | \ \   *
+* |_____|_| \_|_____/   |_/_/    \_\______|______|______|_|  \_\  *
+*                                                                 *
+EOF
+echo -e "*                                                                 *\e[0m"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[94;1m[ Choose Your Options Here ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [1] KERNEL.\e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] MESA.\e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] ARM.\e[0m"
+echo -e " "
+echo -e "\e[94;1m [4] FIRMWARE. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [5] INIT. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [6] BUILD.PROP. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [7] Return To Main Menu.\e[0m"
+echo -e " "
+echo -e "\e[95;1m[ Enter Your Option Here :- ]\e[0m"
+read c
+clear
+case $c in
+1)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[94;1m*                                           *"
+cat<< "EOF"
+*  _  ________ _____  _   _ ______ _        *
+* | |/ /  ____|  __ \| \ | |  ____| |       *
+* | ' /| |__  | |__) |  \| | |__  | |       *
+* |  < |  __| |  _  /| . ` |  __| | |       *
+* | . \| |____| | \ \| |\  | |____| |____   *
+* |_|\_\______|_|  \_\_| \_|______|______|  *                                        
+*                                           *
+EOF
+echo -e "*                                           *\e[0m"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m PRESS ENTER TO CONTINUE ]\e[0m"
+echo -e " "
+read c
+if [ -e /data/media/0/Animus/*.zip ]; then
+echo -e  "\e[91;1m UPDATING KERNEL \e[0m"
+echo -e  " "
+cd /data/media/0/Animus/
+mv *.zip Kernel.zip
+unzip -oq Kernel
+else
+echo -e  "\e[91;1m[ KERNEL NOT FOUND, PUT KERNEL<versioncode>.zip INSIDE Animus ; Error 69 ]\e[0m"
+echo -e  " "
+fi
+echo -e "\e[95;1m[ CHOOSE YOUR PARTITION STYLE ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [1] EXT4  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] NTFS \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+cd /data/media/0/Animus
+A=/data/media/0/Animus/firmware
+if [ -d "$A" ]; then
+cd /system/lib
+rm -rf firmware
+find /data/media/0/Animus -type d -exec chmod 755 {} \;
+find /data/media/0/Animus/firmware -type f -exec chmod 644 {} \;
+rsync -aq /data/media/0/Animus/firmware /system/lib/
+else
+echo ""
+fi
+cd /data/media/0/Animus
+B=/data/media/0/Animus/modules
+if [ -d "$B" ]; then
+echo -e  "\e[91;1m[ BACKING UP STOCK KERNEL ] \e[0m"
+echo -e  " "
+mkdir -m 755 /data/media/0/.Kernel
+cd /system/lib/modules
+rsync -aq 4.14.15-PhoenixOS-x86_64 /data/media/0/.Kernel
+cd /system/lib
+rm -rf modules
+find /data/media/0/Animus -type d -exec chmod 755 {} \;
+find /data/media/0/Animus/modules -type f -exec chmod 644 {} \;
+rsync -aq /data/media/0/Animus/modules /system/lib/
+mv -f /data/media/0/.Kernel/4.14.15-PhoenixOS-x86_64 /system/lib/modules/
+find /system/lib -type d -exec chmod 755 {} \;
+find /system/lib -type f -exec chmod 644 {} \;
+x=$(df /data/ | awk '/^\/dev/ {print $1}')
+mkdir -m 755 /data/media/0/ext4
+mount -t ext4 -rw $x /data/media/0/ext4
+y=$(find /data/media/0/ext4 -maxdepth 4 -type f -name ramdisk.img)
+z=${y%/*}
+cd /data/media/0/Animus
+chmod 777 kernel
+cd /data/media/0/Animus
+rsync -aq kernel $z
+find /data/media/0/Animus -type d -exec chmod 777 {} \;
+find /data/media/0/Animus/modules -type f -exec chmod 777 {} \;
+cd /data/media/0/Animus
+X=/data/media/0/Animus/firmware
+if [ -d "$X" ]; then
+find /data/media/0/Animus/firmware -type f -exec chmod 777 {} \;
+fi
+cd /storage/emulated/0/Animus
+rm -f *.zip
+cd /storage/emulated/0/Animus
+rm -rf modules firmware kernel
+cd /storage/emulated/0
+rmdir .Kernel
+umount -t ext4 $x
+cd /data/media/0
+rmdir ext4
+echo -e "\e[91;1m[ IMAGINATION IS YOUR ONLY LIMIT ]\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+else
+echo -e  "\e[91;1m[ KERNEL SOURCE IS DIFFERENT, CAN'T UPDATE, PLEASE DOWNLOAD FROM LINKS PROVIDED IN ABSTERGO UNIVERSE DISCORD SERVER ONLY ; Error 69 ]\e[0m"
+cd /storage/emulated/0/Animus
+rm -f *.zip
+cd /storage/emulated/0/Animus
+rm -rf modules firmware kernel
+fi
+;;
+2)
+cd /data/media/0/Animus
+A=/data/media/0/Animus/firmware
+if [ -d "$A" ]; then
+cd /system/lib
+rm -rf firmware
+find /data/media/0/Animus -type d -exec chmod 755 {} \;
+find /data/media/0/Animus/firmware -type f -exec chmod 644 {} \;
+rsync -aq /data/media/0/Animus/firmware /system/lib/
+else
+echo ""
+fi
+cd /data/media/0/Animus
+B=/data/media/0/Animus/modules
+if [ -d "$B" ]; then
+echo -e  "\e[95;1m[ BACKING UP STOCK KERNEL ] \e[0m"
+echo -e  " "
+mkdir -m 755 /data/media/0/.Kernel
+cd /system/lib/modules
+rsync -aq 4.14.15-PhoenixOS-x86_64 /data/media/0/.Kernel
+cd /system/lib
+rm -rf modules
+find /data/media/0/Animus -type d -exec chmod 755 {} \;
+find /data/media/0/Animus/modules -type f -exec chmod 644 {} \;
+rsync -aq /data/media/0/Animus/modules /system/lib/
+mv -f /data/media/0/.Kernel/4.14.15-PhoenixOS-x86_64 /system/lib/modules/
+find /system/lib -type d -exec chmod 755 {} \;
+find /system/lib -type f -exec chmod 644 {} \;
+y=$(find /mnt/runtime/default -maxdepth 4 -type f -name ramdisk.img)
+z=${y%/*}
+cd /data/media/0/Animus
+chmod 777 kernel
+cd /data/media/0/Animus
+rsync -aq kernel $z
+find /data/media/0/Animus -type d -exec chmod 777 {} \;
+find /data/media/0/Animus/modules -type f -exec chmod 777 {} \;
+cd /data/media/0/Animus
+X=/data/media/0/Animus/firmware
+if [ -d "$X" ]; then
+find /data/media/0/Animus/firmware -type f -exec chmod 777 {} \;
+fi
+cd /storage/emulated/0/Animus
+rm -f *.zip
+cd /storage/emulated/0/Animus
+rm -rf modules firmware kernel
+cd /storage/emulated/0
+rmdir .Kernel
+sleep 3
+echo -e "\e[92;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 3
+reboot
+else
+echo -e  "\e[95;1m[ KERNEL SOURCE IS DIFFERENT, CAN'T UPDATE, PLEASE DOWNLOAD FROM LINKS PROVIDED IN ABSTERGO UNIVERSE ONLY; Error 69 ]\e[0m"
+cd /storage/emulated/0/Animus
+rm -f *.zip
+cd /storage/emulated/0/Animus
+rm -rf firmware modules kernel
+fi
+;;
+esac
+echo -e " ";;
+2)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[94;1m*                                 *"
+cat<< "EOF"
+*  __  __ ______  _____           *
+* |  \/  |  ____|/ ____|  /\      *
+* | \  / | |__  | (___   /  \     *
+* | |\/| |  __|  \___ \ / /\ \    *
+* | |  | | |____ ____) / ____ \   *
+* |_|  |_|______|_____/_/    \_\  *
+*                                 *
+EOF
+echo -e "\e[94;1m*                                 *\e[0m"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * *\e[0m"
+echo -e  " "
+echo -e "\e[94;1m PRESS ANY KEY TO CONTINUE ]  \e[0m"
+echo -e " "
+read c
+if [ -e /data/media/0/Animus/*.zip ]; then
+echo -e  "\e[95;1m[ UPDATING MESA ] \e[0m"
+echo -e  " "
+cd /data/media/0/Animus/
+mv *.zip Mesa.zip
+cd /data/media/0/Animus/
+unzip -oq Mesa
+find /data/media/0/Animus -type d -exec chmod 755 {} \;
+find /data/media/0/Animus/lib -type f -exec chmod 644 {} \;
+find /data/media/0/Animus/lib64 -type f -exec chmod 644 {} \;
+find /data/media/0/Animus/vendor -type f -exec chmod 644 {} \;
+if [ -d /data/media/0/Animus/usr ]; then
+find /data/media/0/Animus/usr -type f -exec chmod 644 {} \;
+fi
+echo -e  " "
+else
+echo -e  "\e[95;1m[ MESA DRIVER NOT FOUND, PUT Mesa<versioncode>.zip INSIDE Animus ; Error 69 ]\e[0m"
+echo -e  " "
+fi
+cd /data/media/0/Animus
+B=/data/media/0/Animus/lib64
+if [ -d "$B" ]; then
+cd /system/lib
+rm -rf dri egl hw libglapi.so
+cd /system/vendor
+rm -rf lib lib64
+cd /system/lib64
+rm -rf dri egl hw libglapi.so
+echo -e "\e[96;1m[ PLEASE WAIT ]\e[0m"
+echo -e  " "
+rsync -aq /data/media/0/Animus/lib /system/
+rsync -aq /data/media/0/Animus/vendor /system/
+rsync -aq /data/media/0/Animus/lib64 /system/
+if [ -d /data/media/0/Animus/usr ]; then
+rsync -aq /data/media/0/Animus/usr /system/
+fi
+cd /storage/emulated/0/Animus
+rm -f *.zip
+find /data/media/0/Animus -type d -exec chmod 777 {} \;
+find /data/media/0/Animus/lib -type f -exec chmod 777 {} \;
+find /data/media/0/Animus/lib64 -type f -exec chmod 777 {} \;
+find /data/media/0/Animus/vendor -type f -exec chmod 777 {} \;
+cd /storage/emulated/0/Animus
+rm -rf lib lib64 vendor usr
+echo -e "\e[92;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e  " "
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+else
+echo -e  "\e[95;1m[ MESA DRIVER SOURCE IS DIFFERENT, CAN'T UPDATE, PLEASE DOWNLOAD FROM LINKS PROVIDED IN ABSTERGO UNIVERSE ; Error 69 ]\e[0m"
+cd /storage/emulated/0/Animus
+rm -f *.zip
+cd /storage/emulated/0/Animus
+rm -rf lib lib64 vendor usr
+fi
+echo -e " ";;
+3)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                   *"
+cat<< "EOF"
+*           _____  __  __  _____    *
+*     /\   |  __ \|  \/  |/ ____|   *
+*    /  \  | |__) | \  / | (___     *
+*   / /\ \ |  _  /| |\/| |\___ \    *
+*  / ____ \| | \ \| |  | |____) |   *
+* /_/    \_\_|  \_\_|  |_|_____/    *
+*                                   *
+EOF
+echo -e "\e[0m\e[94;1m*                                   *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ UPDATING ARM MAY SUPPORT MORE GAMES AND APPS IN ABSTERGO OS.]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [1] UPDATE ARM. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] Return To main menu. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] Exit. \e[0m"
+echo -e " "
+echo -e "\e[94;1m Enter the Option Here > \e[0m"
+echo -e " "
+read c
+case $c in
+1)
+echo -e "\e[91;1m [ UPDATING ARMS.]\e[0m"
+echo -e " "
+cd /storage/emulated/0/Animus/
+unzip -oq AOSArm.zip
+find /storage/emulated/0/Animus/ -type d -exec chmod 755 {} \;
+find /storage/emulated/0/Animus/ -type f -exec chmod 644 {} \;
+cd /storage/emulated/0/Animus/
+chmod 644 libhoudini.so
+cd /system/lib
+rm -rf arm
+cd /storage/emulated/0/Animus/
+cp -rpf arm /system/lib/
+cd /storage/emulated/0/Animus/
+cp -pf libhoudini.so /system/lib/
+echo -e "\e[93;1m[ Done.]\e[0m"
+echo -e " "
+cd /system/etc/ppp/.arm/s
+rm -r arm 
+rm -r libhoudini.so 
+echo -e "\e[92;1m[ REBOOTING....]\e[0m"
+sleep 5
+reboot
+echo -e " ";;
+2)
+cd /system/bin
+aos
+echo -e " ";;
+3)
+exit
+echo -e " ";;
+esac
+echo -e " " ;;
+4)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                               *"
+cat<< "EOF"
+*  ______ _____ _____  __  ____          __     _____  ______   *
+* |  ____|_   _|  __ \|  \/  \ \        / /\   |  __ \|  ____|  *
+* | |__    | | | |__) | \  / |\ \  /\  / /  \  | |__) | |__     *
+* |  __|   | | |  _  /| |\/| | \ \/  \/ / /\ \ |  _  /|  __|    *
+* | |     _| |_| | \ \| |  | |  \  /\  / ____ \| | \ \| |____   *
+* |_|    |_____|_|  \_\_|  |_|   \/  \/_/    \_\_|  \_\______|  *
+*                                                               *
+EOF
+echo -e "\e[0m\e[94;1m*                                                               *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[91;1m [ PRESS ENTER KEY TO CONTINUE ]\e[0m"
+echo -e " "
+read c
+if [ -e /data/media/0/Animus/*.zip ]; then
+echo -e  "\e[95;1m UPDATING FIRMWARE \e[0m"
+echo -e  " "
+cd /data/media/0/Animus/
+mv *.zip Firmware.zip
+unzip -oq Firmware
+cd /data/media/0/Animus
+B=/data/media/0/Animus/firmware
+if [ -d "$B" ]; then
+cd /system/lib
+rm -rf firmware
+find /data/media/0/Animus -type d -exec chmod 755 {} \;
+find /data/media/0/Animus/firmware -type f -exec chmod 644 {} \;
+rsync -aq /data/media/0/Animus/firmware /system/lib/
+find /data/media/0/Animus -type d -exec chmod 777 {} \;
+find /data/media/0/Animus/firmware -type f -exec chmod 777 {} \;
+cd /storage/emulated/0/Animus
+rm -rf firmware
+cd /storage/emulated/0/Animus
+rm -f *.zip
+cd /storage/emulated/0/Animus
+rm -f fw.txt
+sleep 3
+echo -e "\e[92;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+else
+echo -e  "\e[95;1m[ FIRMWARE SOURCE IS DIFFERENT, CAN'T UPDATE, PLEASE DOWNLOAD FROM LINKS PROVIDED IN ABSTERGO UNIVERSE ; Error 69 ]\e[0m"
+echo -e " "
+cd /storage/emulated/0/Animus
+rm -f *.zip
+cd /storage/emulated/0/Animus
+rm -f fw.txt
+fi
+else
+echo -e  "\e[94;1m[ FIRMWARE NOT FOUND, PUT FIRMWARE.zip INSIDE Animus ; Error 69 ]\e[0m"
+fi
+echo -e " ";;
+5)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                               *"
+cat << "EOF"
+*   _____ _   _ _____ _______   *
+*  |_   _| \ | |_   _|__   __|  *
+*    | | |  \| | | |    | |     *
+*    | | | . ` | | |    | |     *
+*   _| |_| |\  |_| |_   | |     *
+*  |_____|_| \_|_____|  |_|     *
+*                               *
+EOF
+echo -e "\e[0m\e[94;1m*                               *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[94;1m"
+echo -e  "\e[91;1m[ PRESS ENTER TO BEGIN THE PROCESS. ]\e[0m"
+read c
+echo -e " "
+sleep 3
+rm -f /system/etc/init.sh
+mv -f /data/media/0/Animus/init.sh /system/etc/
+cd /system/etc
+chmod 755 init.sh
+echo -e  "\e[95;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e  " "
+echo -e  "\e[95;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+echo -e " ";;
+6)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                   *"
+cat << "EOF"
+*  ____  _    _ _____ _      _____    _____  _____   ____  _____    *
+* |  _ \| |  | |_   _| |    |  __ \  |  __ \|  __ \ / __ \|  __ \   *
+* | |_) | |  | | | | | |    | |  | | | |__) | |__) | |  | | |__) |  *
+* |  _ <| |  | | | | | |    | |  | | |  ___/|  _  /| |  | |  ___/   *
+* | |_) | |__| |_| |_| |____| |__| | | |    | | \ \| |__| | |       *
+* |____/ \____/|_____|______|_____/  |_|    |_|  \_\\____/|_|       *
+*                                                                   *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                   *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[94;1m"
+read c
+cd system
+rm -rf build.prop
+mv -f /data/media/0/Animus/build.prop /system/
+cd /system/
+chmod 755 build.prop
+echo -e  "\e[95;1m[ DONE, REBOOTING ]\e[0m"
+sleep 5
+reboot
+echo -e " ";;
+7)
+echo -e "\e[91;1m [ EXIT FROM ANIMUS TERMINAL. ]\e[0m"
+echo -e " "
+exit ;;
+esac 
+echo -e " ";;
+2)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                       *"
+cat<<"EOF"
+*  ____  ______           _____ _______   __  __  ____  _____  ______   *
+* |  _ \|  ____|   /\    / ____|__   __| |  \/  |/ __ \|  __ \|  ____|  *
+* | |_) | |__     /  \  | (___    | |    | \  / | |  | | |  | | |__     *
+* |  _ <|  __|   / /\ \  \___ \   | |    | |\/| | |  | | |  | |  __|    *
+* | |_) | |____ / ____ \ ____) |  | |    | |  | | |__| | |__| | |____   *
+* |____/|______/_/    \_\_____/   |_|    |_|  |_|\____/|_____/|______|  *
+*                                                                       *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                       *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+cd /system/bin
+chmod 777 rsync
+echo -e "\e[94;1m[ PRESS ENTER TO CONTINUE ]\e[0m"
+read
+clear
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                       *"
+cat<<"EOF"
+*  ____  ______           _____ _______   __  __  ____  _____  ______   *
+* |  _ \|  ____|   /\    / ____|__   __| |  \/  |/ __ \|  __ \|  ____|  *
+* | |_) | |__     /  \  | (___    | |    | \  / | |  | | |  | | |__     *
+* |  _ <|  __|   / /\ \  \___ \   | |    | |\/| | |  | | |  | |  __|    *
+* | |_) | |____ / ____ \ ____) |  | |    | |  | | |__| | |__| | |____   *
+* |____/|______/_/    \_\_____/   |_|    |_|  |_|\____/|_____/|______|  *
+*                                                                       *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                       *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m [ Choose Your Action Here ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [1] BEAST MODE.\e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] RETURN TO MAIN MENU. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] EXIT. \e[0m"
+echo -e " "
+echo -e "\e[94;1m Choose Your Option Here \e[0m"
+echo -e " "
+read c
+clear 
+case $c in
+1)
+echo -e "\e[91;1m[ ACTIVATING BEAST MODE. $c \e[0m"
+echo -e " "
+x=$(df /data/ | awk '/^\/dev/ {print $1}')
+cd /sdcard
+mkdir -m 777 ext4
+mount -t ext4 -rw $x /sdcard/ext4
+y=$(find /sdcard/ext4 -maxdepth 4 -type f -name ramdisk.img)
+z=${y%/*}
+F=$z/system.img
+if [ -f "$F" ]; then
+echo -e "\e[94;1m[ CONVERTING SYSTEM.IMG TO SYSTEM FOLDER ]\e[0m"
+echo -e " "
+cd /
+echo -e "\e[91;1m          Progress   \e[94;1m   Speed     \e[91;1m   Duration\e[0m"
+rsync -a --info=progress2 system /$z
+sleep 1
+echo -e " "
+echo -e "\e[94;1m[ REMOVING SYSTEM.IMG ]\e[0m"
+cd /$z
+rm -r system.img 
+echo -e " "
+sync
+sleep 0.5
+cd /sdcard
+umount -t ext4 $x
+cd /sdcard
+rmdir ext4
+sleep 0.6
+echo -e " "
+echo -e "\e[95;1m[ BEAST MODE ACTIVATED]\e[0m"
+sleep 0.5
+echo -e " "
+echo -e "\e[91;1m[ REBOOTING IN 5 SECONDS]\e[0m"
+sleep 5
+reboot
+else
+echo -e "\e[94;1m[ BEAST MODE IS ALREADY ACTIVATED ]\e[0m"
+sleep 3
+echo -e " "
+cd /sdcard
+umount -t ext4 $x
+cd /sdcard
+rmdir ext4
+echo -e "\e[93;1m[ Press Alt + f7  To CLOSE ANIMUS.]\e[0m"
+echo -e " "
+fi ;;
+2)
+cd /system/bin
+aos;;
+3)
+exit ;;
+esac
+echo -e " ";;
+3)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                               *"
+cat<< "EOF"
+*   _____ _        _______ ____   ____  _        __  __  ____  _____  ______    *
+*  / ____| |      |__   __/ __ \ / __ \| |      |  \/  |/ __ \|  __ \|  ____|   *
+* | |  __| |         | | | |  | | |  | | |      | \  / | |  | | |  | | |__      *
+* | | |_ | |         | | | |  | | |  | | |      | |\/| | |  | | |  | |  __|     *
+* | |__| | |____     | | | |__| | |__| | |____  | |  | | |__| | |__| | |____    *
+*  \_____|______|    |_|  \____/ \____/|______| |_|  |_|\____/|_____/|______|   *
+*                                                                               *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                               *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ SELECT YOUR OPTION ]\e[0m"
+echo -e  " "
+echo -e "\e[91;1m [1] ENABLE  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] DISABLE \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[96;1m[ ENABLING GL TOOLS ]\e[0m"
+echo -e " "
+if [ -d /system/app/com.n0n3m4.gltools-1 ]; then
+pm clear com.n0n3m4.gltools
+elif [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+pm clear com.n0n3m4.gltools
+else
+pm disable com.android.vending
+cd /system/etc/security/cacerts/.animus/proxy
+pm install -g GLTools.apk
+fi
+echo -e "\e[91;1m[ CHOOSE YOUR TEMPLATE ]\e[0m"
+echo -e  " "
+echo -e "\e[94;1m [1] MALI-G72 \e[0m"
+echo -e " "
+echo -e "\e[91;1m [2] SGX 540 \e[0m"
+echo -e " "
+echo -e "\e[94;1m [3] G6430 \e[0m"
+echo -e " "
+echo -e "\e[91;1m [4] TEGRA 4 (SHIELD) \e[0m"
+echo -e " "
+echo -e "\e[94;1m [5] MALI T880 \e[0m"
+echo -e " "
+echo -e "\e[91;1m [6] ADRENO 650 \e[0m"
+echo -e " "
+echo -e "\e[94;1m [7] MALI G76 \e[0m"
+echo -e " "
+echo -e "\e[91;1m [8] CUSTOM TEMPLATE \e[0m"
+echo -e  " "
+read b
+clear
+case $b in
+1)
+echo -e "\e[96;1m[ IMPLEMENTING FAKE GPU MODE... ]\e[0m"
+echo -e  " "
+monkey -p com.n0n3m4.gltools -c android.intent.category.LAUNCHER 1
+am force-stop com.n0n3m4.gltools
+pm enable com.android.vending
+cd /system/etc/security/cacerts/.animus/proxy/global/1
+rsync -aq uid_all.glt /data/data/com.n0n3m4.gltools/files/
+rsync -aq uid_all.xml /data/data/com.n0n3m4.gltools/shared_prefs/
+cd /data/data/com.n0n3m4.gltools/files
+chmod 755 uid_all.glt
+cd /data/data/com.n0n3m4.gltools/shared_prefs
+chmod 755 uid_all.xml
+if [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+cd /data/app
+mv -f com.n0n3m4.gltools-1 /system/app/
+find /system/app -type d -exec chmod 755 {} \;
+find /system/app/com.n0n3m4.gltools-1 -type f -exec chmod 644 {} \;
+fi
+;;
+2)
+echo -e "\e[96;1m[ IMPLEMENTING FAKE GPU MODE... ]\e[0m"
+echo -e  " "
+monkey -p com.n0n3m4.gltools -c android.intent.category.LAUNCHER 1
+am force-stop com.n0n3m4.gltools
+pm enable com.android.vending
+cd /system/etc/security/cacerts/.animus/proxy/global/2
+rsync -aq uid_all.glt /data/data/com.n0n3m4.gltools/files/
+rsync -aq uid_all.xml /data/data/com.n0n3m4.gltools/shared_prefs/
+cd /data/data/com.n0n3m4.gltools/files
+chmod 755 uid_all.glt
+cd /data/data/com.n0n3m4.gltools/shared_prefs
+chmod 755 uid_all.xml
+if [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+cd /data/app
+mv -f com.n0n3m4.gltools-1 /system/app/
+find /system/app -type d -exec chmod 755 {} \;
+find /system/app/com.n0n3m4.gltools-1 -type f -exec chmod 644 {} \;
+fi
+;;
+3)
+echo -e "\e[96;1m[ IMPLEMENTING FAKE GPU MODE ]\e[0m"
+echo -e  " "
+monkey -p com.n0n3m4.gltools -c android.intent.category.LAUNCHER 1
+am force-stop com.n0n3m4.gltools
+pm enable com.android.vending
+cd /system/etc/security/cacerts/.animus/proxy/global/3
+rsync -aq uid_all.glt /data/data/com.n0n3m4.gltools/files/
+rsync -aq uid_all.xml /data/data/com.n0n3m4.gltools/shared_prefs/
+cd /data/data/com.n0n3m4.gltools/files
+chmod 755 uid_all.glt
+cd /data/data/com.n0n3m4.gltools/shared_prefs
+chmod 755 uid_all.xml
+if [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+cd /data/app
+mv -f com.n0n3m4.gltools-1 /system/app/
+find /system/app -type d -exec chmod 755 {} \;
+find /system/app/com.n0n3m4.gltools-1 -type f -exec chmod 644 {} \;
+fi
+;;
+4)
+echo -e "\e[96;1m[ IMPLEMENTING FAKE GPU MODE... ]\e[0m"
+echo -e  " "
+monkey -p com.n0n3m4.gltools -c android.intent.category.LAUNCHER 1
+am force-stop com.n0n3m4.gltools
+pm enable com.android.vending
+cd /system/etc/security/cacerts/.animus/proxy/global/4
+rsync -aq uid_all.glt /data/data/com.n0n3m4.gltools/files/
+rsync -aq uid_all.xml /data/data/com.n0n3m4.gltools/shared_prefs/
+cd /data/data/com.n0n3m4.gltools/files
+chmod 755 uid_all.glt
+cd /data/data/com.n0n3m4.gltools/shared_prefs
+chmod 755 uid_all.xml
+if [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+cd /data/app
+mv -f com.n0n3m4.gltools-1 /system/app/
+find /system/app -type d -exec chmod 755 {} \;
+find /system/app/com.n0n3m4.gltools-1 -type f -exec chmod 644 {} \;
+fi
+;;
+5)
+echo -e "\e[96;1m[ IMPLEMENTING FAKE GPU MODE... ]\e[0m"
+echo -e  " "
+monkey -p com.n0n3m4.gltools -c android.intent.category.LAUNCHER 1
+am force-stop com.n0n3m4.gltools
+pm enable com.android.vending
+cd /system/etc/security/cacerts/.animus/proxy/global/5
+rsync -aq uid_all.glt /data/data/com.n0n3m4.gltools/files/
+rsync -aq uid_all.xml /data/data/com.n0n3m4.gltools/shared_prefs/
+cd /data/data/com.n0n3m4.gltools/files
+chmod 755 uid_all.glt
+cd /data/data/com.n0n3m4.gltools/shared_prefs
+chmod 755 uid_all.xml
+if [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+cd /data/app
+mv -f com.n0n3m4.gltools-1 /system/app/
+find /system/app -type d -exec chmod 755 {} \;
+find /system/app/com.n0n3m4.gltools-1 -type f -exec chmod 644 {} \;
+fi
+;;
+6)
+echo -e "\e[96;1m[ IMPLEMENTING FAKE GPU MODE... ]\e[0m"
+echo -e  " "
+monkey -p com.n0n3m4.gltools -c android.intent.category.LAUNCHER 1
+am force-stop com.n0n3m4.gltools
+pm enable com.android.vending
+cd /system/etc/security/cacerts/.animus/proxy/global/6
+rsync -aq uid_all.glt /data/data/com.n0n3m4.gltools/files/
+rsync -aq uid_all.xml /data/data/com.n0n3m4.gltools/shared_prefs/
+cd /data/data/com.n0n3m4.gltools/files
+chmod 755 uid_all.glt
+cd /data/data/com.n0n3m4.gltools/shared_prefs
+chmod 755 uid_all.xml
+if [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+cd /data/app
+mv -f com.n0n3m4.gltools-1 /system/app/
+find /system/app -type d -exec chmod 755 {} \;
+find /system/app/com.n0n3m4.gltools-1 -type f -exec chmod 644 {} \;
+fi
+;;
+7)
+echo -e "\e[96;1m[ IMPLEMENTING FAKE GPU MODE... ]\e[0m"
+echo -e  " "
+monkey -p com.n0n3m4.gltools -c android.intent.category.LAUNCHER 1
+am force-stop com.n0n3m4.gltools
+pm enable com.android.vending
+cd /system/etc/security/cacerts/.animus/proxy/global/7
+rsync -aq uid_all.glt /data/data/com.n0n3m4.gltools/files/
+rsync -aq uid_all.xml /data/data/com.n0n3m4.gltools/shared_prefs/
+cd /data/data/com.n0n3m4.gltools/files
+chmod 755 uid_all.glt
+cd /data/data/com.n0n3m4.gltools/shared_prefs
+chmod 755 uid_all.xml
+if [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+cd /data/app
+mv -f com.n0n3m4.gltools-1 /system/app/
+find /system/app -type d -exec chmod 755 {} \;
+find /system/app/com.n0n3m4.gltools-1 -type f -exec chmod 644 {} \;
+fi
+;;
+8)
+echo -e "\e[96;1m[ IMPLEMENTING CUSTOM FAKE GPU MODE... ]\e[0m"
+echo -e  " "
+monkey -p com.n0n3m4.gltools -c android.intent.category.LAUNCHER 1
+am force-stop com.n0n3m4.gltools
+pm enable com.android.vending
+if [ -e /data/media/0/Animus/gl.zip ]; then
+cd  /data/media/0/Animus
+unzip -oq gl
+cd /data/media/0/Animus
+mv -f uid_all.glt /data/data/com.n0n3m4.gltools/files/
+cd /data/media/0/Animus
+mv -f uid_all.xml /data/data/com.n0n3m4.gltools/shared_prefs/
+cd /data/data/com.n0n3m4.gltools/files
+chmod 755 uid_all.glt
+cd /data/data/com.n0n3m4.gltools/shared_prefs
+chmod 755 uid_all.xml
+else
+echo -e "\e[94;1m[ Custom Temaplate not found, Ask Developer for More Info ]\e[0m"
+echo -e  " "
+sleep 3
+fi
+if [ -d /data/app/com.n0n3m4.gltools-1 ]; then
+cd /data/app
+mv -f com.n0n3m4.gltools-1 /system/app/
+find /system/app -type d -exec chmod 755 {} \;
+find /system/app/com.n0n3m4.gltools-1 -type f -exec chmod 644 {} \;
+fi
+;;
+esac
+echo -e "\e[96;1m[ UPDATING LIBS ]\e[0m"
+echo -e  " "
+if [ -e /system/lib/libEGL_orig.so ]; then
+cd /system/etc/security/cacerts/.animus/proxy
+rsync -aq uninstall_gltools.zip /data/media/0/
+cd /system/etc/security/cacerts/.animus/proxy/lib
+find -type f -exec chmod 644 {} \;
+cd /system/etc/security/cacerts/.animus/proxy/lib
+rsync -aq *.so /system/lib
+cd /system/etc/security/cacerts/.animus/proxy/lib64
+find -type f -exec chmod 644 {} \;
+cd /system/etc/security/cacerts/.animus/proxy/lib64
+rsync -aq *.so /system/lib64
+sleep 3
+echo -e "\e[96;1m[ IMAGINATION IS YOUR ONLY LIMIT ]\e[0m"
+echo -e " "
+echo -e "\e[93;1m[ REBOOTING ]\e[0m"
+sleep 3
+reboot
+else
+cd /system/etc/security/cacerts/.animus/proxy
+rsync -aq uninstall_gltools.zip /data/media/0/
+cd /system/lib
+mv -f libEGL.so libEGL_orig.so
+cd /system/lib
+mv -f libGLESv1_CM.so libGLESv1_CM_orig.so
+cd /system/lib
+mv -f libGLESv2.so libGLESv2_orig.so
+cd /system/lib
+mv -f libGLESv3.so libGLESv3_orig.so
+cd /system/lib64
+mv -f libEGL.so libEGL_orig.so
+cd /system/lib64
+mv -f libGLESv1_CM.so libGLESv1_CM_orig.so
+cd /system/lib64
+mv -f libGLESv2.so libGLESv2_orig.so
+cd /system/lib64
+mv -f libGLESv3.so libGLESv3_orig.so
+cd /system/etc/security/cacerts/.animus/proxy/lib
+find -type f -exec chmod 644 {} \;
+cd /system/etc/security/cacerts/.animus/proxy/lib
+rsync -aq *.so /system/lib
+cd /system/etc/security/cacerts/.animus/proxy/lib64
+find -type f -exec chmod 644 {} \;
+cd /system/etc/security/cacerts/.animus/proxy/lib64
+rsync -aq *.so /system/lib64
+sleep 3
+echo -e "\e[96;1m[ IMAGINATION IS YOUR ONLY LIMIT ]\e[0m"
+echo -e " "
+echo -e "\e[93;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+fi
+;;
+2)
+echo -e "\e[91;1m[ DISABLING GL TOOLS ]\e[0m"
+echo -e  " "
+cd /system/app
+rm -rf com.n0n3m4.gltools-1
+cd /data/media/0
+rm -f uninstall_gltools.zip
+cd /data/data
+rm -rf com.n0n3m4.gltools
+cd /system/lib
+mv -f libEGL_orig.so libEGL.so
+cd /system/lib
+mv -f libGLESv1_CM_orig.so libGLESv1_CM.so
+cd /system/lib
+mv -f libGLESv2_orig.so libGLESv2.so
+cd /system/lib
+mv -f  libGLESv3_orig.so libGLESv3.so
+cd /system/lib64
+mv -f libEGL_orig.so libEGL.so
+cd /system/lib64
+mv -f libGLESv1_CM_orig.so libGLESv1_CM.so
+cd /system/lib64
+mv -f libGLESv2_orig.so libGLESv2.so
+cd /system/lib64
+mv -f  libGLESv3_orig.so libGLESv3.so
+find /system -type d -exec chmod 755 {} \;
+find /system/lib -type f -exec chmod 644 {} \;
+find /system/lib64 -type f -exec chmod 644 {} \;
+sleep 3
+echo -e "\e[96;1m[ IMAGINATION IS YOUR ONLY LIMIT ]\e[0m"
+echo -e " "
+echo -e "\e[93;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+;;
+esac
+echo -e " ";;
+4)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * \e[0m"
+echo -e "\e[0m\e[94;1m*                                                             *"
+cat<< "EOF"
+*   _____          __  __ ______   __________  _   _ ______   *
+*  / ____|   /\   |  \/  |  ____| |___  / __ \| \ | |  ____|  *
+* | |  __   /  \  | \  / | |__       / / |  | |  \| | |__     *
+* | | |_ | / /\ \ | |\/| |  __|     / /| |  | | . ` |  __|    *
+* | |__| |/ ____ \| |  | | |____   / /_| |__| | |\  | |____   *
+*  \_____/_/    \_\_|  |_|______| /_____\____/|_| \_|______|  *
+*                                                             *
+EOF
+echo -e "\e[0m\e[94;1m*                                                             *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ Choose Your Options Here ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [1] KEY MAPPER [BACKUP/RESTORE]\e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] REFRESH PUBG MOBILE.\e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] PUBG-M GLOBAL [BACKUP/RESTORE].\e[0m"
+echo -e " "
+echo -e "\e[94;1m [4] PUBG-M KOREAN [BACKUP/RESTORE]. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [5] PUBG-M UHD MODE. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [6] Return To Main Menu.\e[0m"
+echo -e " "
+echo -e "\e[95;1m[ Enter Your Option Here :- ]\e[0m"
+echo -e " "
+read c 
+clear  
+case $c in
+1)
+echo -e " "
+echo -e "\e[91;1m [ Keymapping Backup And Restore ]\e[0m"
+echo -e " "
+echo -e "\e[94;1m [ Choose Your Option To Start Operation. ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [1] Backup Keymap. \e[0m"
+echo -e  " "
+echo -e "\e[94;1m [2] Restore Keymap. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] Return To Main Menu. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [4] Exit . \e[0m"
+echo -e " "
+echo -e "\e[95;1m Enter Your Choice :- \e[0m"
+echo -e " "
+read n
+clear
+echo -e " "
+case $n in
+1)
+echo -e "\e[91;1m Your choice is [ $n ] KeyMap-backup.\e[0m"
+echo -e " "
+sleep 0.2
+echo -e " "
+cd /sdcard
+F=/sdcard/GH
+if [ -d "$F" ]; then
+rm -r GH
+sleep 0.4
+cd /sdcard
+mkdir GH
+sleep 0.2
+cd /data/data/com.chaozhuo.gamemaster/files
+cp gamemaster_settings.json /sdcard/GH
+cp keymap_local_config_json /sdcard/GH
+echo -e " "
+echo -e "\e[94;1m [ KEY-MAPPER IS BACKED UP IN MAIN STORAGE. ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [ PRESS ALT + F7 TO CLOSE TERMINAL. ]\e[0m"
+read c
+else
+echo -e " "
+echo -e "\e[94;1m [ OLD BACKUP NOT FOUND. ]\e[0m"
+cd /sdcard
+mkdir GH
+sleep 0.2
+cd /data/data/com.chaozhuo.gamemaster/files
+cp gamemaster_settings.json /sdcard/GH
+cp keymap_local_config_json /sdcard/GH
+echo -e " "
+echo -e "\e[91;1m [ DONE. ]\e[0m"
+echo -e " "
+echo -e "\e[94;1m [ Press Alt+f7 To return Home Screen. ]\e[0m"
+fi
+echo -e " "
+read c;;
+2)
+echo -e "\e[91;1m [ Your choice is [ $n ] Restore Keymap. ]\e[0m"
+echo -e " "
+sleep 0.5
+F=/sdcard/GH
+if [ -d "$F" ]; then
+cd /data/data/com.chaozhuo.gamemaster/files
+rm -r gamemaster_settings.json
+rm -r keymap_local_config_json
+monkey -p com.chaozhuo.gamemaster -c android.intent.category.LAUNCHER 1
+am force-stop com.chaozhuo.gamemaster
+cd /sdcard/GH
+cp gamemaster_settings.json /data/data/com.chaozhuo.gamemaster/files
+cp keymap_local_config_json /data/data/com.chaozhuo.gamemaster/files
+cd /data/data/com.chaozhuo.gamemaster/files
+chmod 777 gamemaster_settings.json
+chmod 777 keymap_local_config_json
+echo -e "\e[94;1m [ DONE. ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [ REBOOTING ]\e[0m"
+sleep 5
+reboot
+else
+echo -e "\e[94;1m [ BACKUP NOT FOUND. ]/e[0m"
+echo -e " "
+echo -e "\e[91;1m [ REBOOTING ]\e[0m"
+sleep 5
+reboot
+fi
+echo -e " ";;
+3)
+cd /system/bin
+aos
+echo -e " ";;
+4)
+exit
+echo -e " ";;
+esac
+echo -e " " ;;
+2)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                   *"
+cat << "EOF"
+*  _____  ______ ______ _____  ______  _____ _    _   _____  _    _ ____   _____    *
+* |  __ \|  ____|  ____|  __ \|  ____|/ ____| |  | | |  __ \| |  | |  _ \ / ____|   *
+* | |__) | |__  | |__  | |__) | |__  | (___ | |__| | | |__) | |  | | |_) | |  __    *
+* |  _  /|  __| |  __| |  _  /|  __|  \___ \|  __  | |  ___/| |  | |  _ <| | |_ |   *
+* | | \ \| |____| |    | | \ \| |____ ____) | |  | | | |    | |__| | |_) | |__| |   *
+* |_|  \_\______|_|    |_|  \_\______|_____/|_|  |_| |_|     \____/|____/ \_____|   *
+*                                                                                   *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                   *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[95;1m[ CHOOSE YOUR GAME VARIENT ]\e[0m"
+echo -e " "
+echo -e "\e[94;1m [1] PUBG MOBILE GLOBAL  \e[0m"
+echo -e " "
+echo -e "\e[91;1m [2] PUBG MOBILE KOREAN  \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[91;1m[ REFRESHING ]\e[0m"
+echo -e  " "
+rm -rf /data/media/0/Android/data/com.tencent.ig/files/ProgramBinaryCache/*
+rm -rf /data/media/0/Android/data/com.tencent.ig/cache
+rm -f /data/media/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
+sleep 3
+echo -e "\e[94;1m[ IMAGINATION IS YOUR ONLY LIMIT... ]\e[0m"
+echo -e  " "
+echo -e "\e[91;1m[ Press ALT+F7 or ALT+FN+F7 to Exit ]\e[0m"
+read c
+;;
+2)
+echo -e "\e[94;1m[ REFRESHING... ]\e[0m"
+echo -e  " "
+rm -rf /data/media/0/Android/data/com.pubg.krmobile/files/ProgramBinaryCache/*
+rm -rf /data/media/0/Android/data/com.pubg.krmobile/cache
+rm -f /data/media/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini
+sleep 3
+echo -e "\e[91;1m[ IMAGINATION IS YOUR ONLY LIMIT... ]\e[0m"
+echo -e  " "
+echo -e "\e[95;1m[ Press ALT+F7 or ALT+FN+F7 to Exit ]\e[0m"
+read c
+;;
+esac
+echo -e " ";;
+3)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                         *"
+cat << "EOF"
+*  _____  _    _ ____   _____        __  __    _____ _      ____  ____          _         *
+* |  __ \| |  | |  _ \ / ____|      |  \/  |  / ____| |    / __ \|  _ \   /\   | |        *
+* | |__) | |  | | |_) | |  __ ______| \  / | | |  __| |   | |  | | |_) | /  \  | |        *
+* |  ___/| |  | |  _ <| | |_ |______| |\/| | | | |_ | |   | |  | |  _ < / /\ \ | |        *
+* | |    | |__| | |_) | |__| |      | |  | | | |__| | |___| |__| | |_) / ____ \| |____    *
+* |_|     \____/|____/ \_____|      |_|  |_|  \_____|______\____/|____/_/    \_\______|   *
+*                                                                                         *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                         *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e  "\e[95;1m[ PLEASE CHOICE YOUR OPTION ]\e[0m"
+echo -e  " "
+echo -e  "\e[91;1m [1] BACKUP PUBG-MOBILE.\e[0m"
+echo -e  " "
+echo -e  "\e[94;1m [2] RESTORE PUBG-MOBILE.\e[0m"
+echo -e  " "
+echo -e  " \e[91;1m[ CHOOSE YOUR CHOICE TO PERFORM ACTION. ]\e[0m"
+echo -e  " "
+read n
+echo -e "\e[94;1m[ SELECTED CHOICE IS $n ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m[ PLEASE PRESS ANY KEY TO CONTINUE. ]\e[0m"
+read
+clear
+case $n in
+1)
+echo -e  "\e[91;1m YOUR CHOICE IS PUBGM_BACKUP. \e[0m"
+echo -e  " "
+{
+cd /storage/emulated/0
+F=/storage/emulated/0/PUBGM
+if [ -d "$F" ]; then
+echo -e  "\e[94;1m [ BACKING PUBG-M. ]\e[0m"
+echo -e  " "
+cd /storage/emulated/0/
+rm -r PUBGM
+cd /storage/emulated/0
+mkdir PUBGM
+cd /storage/emulated/0/PUBGM
+mkdir DATA
+cd /storage/emulated/0/PUBGM/DATA
+mkdir com.tencent.ig
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig
+mkdir files
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files
+mkdir UE4Game
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game
+mkdir ShadowTrackerExtra
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game/ShadowTrackerExtra
+mkdir ShadowTrackerExtra
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra
+mkdir Saved
+cd /storage/emulated/0/PUBGM
+mkdir OBB
+cd /storage/emulated/0/PUBGM
+mkdir APK
+cd /storage/emulated/0/Android/obb
+#cp -r com.tencent.ig /storage/emulated/0/PUBGM/OBB
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/PUBGM/OBB
+echo -e  " "
+cd /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
+#cp -r paks /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved
+rsync -r --info=progress2 paks /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved
+echo -e  " "
+cd /data/app/com.tencent.ig-1/
+cp base.apk /storage/emulated/0/PUBGM/APK
+echo -e  "\e[95;1m [ PLEASE CHECK YOUR STORAGE FOLDER CALLED 'PUBGM' ]\e[0m"
+read c
+else
+cd /storage/emulated/0
+mkdir PUBGM
+cd /storage/emulated/0/PUBGM
+mkdir DATA
+cd /storage/emulated/0/PUBGM/DATA
+mkdir com.tencent.ig
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig
+mkdir files
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files
+mkdir UE4Game
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game
+mkdir ShadowTrackerExtra
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game/ShadowTrackerExtra
+mkdir ShadowTrackerExtra
+cd /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra
+mkdir Saved
+cd /storage/emulated/0/PUBGM
+mkdir OBB
+cd /storage/emulated/0/PUBGM
+mkdir APK
+echo -e  "\e[95;1m [ PLEASE WAIT......]\e[0m"
+echo -e  " "
+cd /storage/emulated/0/Android/obb
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/PUBGM/OBB
+echo -e  " "
+cd /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
+rsync -r --info=progress2 paks /storage/emulated/0/PUBGM/DATA/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved
+echo -e " "
+cd /data/app/com.tencent.ig-1/
+cp base.apk /storage/emulated/0/PUBGM/APK
+echo -e  " "
+echo -e  "\e[95;1m [ PLEASE CHECK YOUR STORAGE FOLDER CALLED 'PUBGM' ]\e[0m"
+fi
+}
+echo -e  " "
+read c
+;;
+2)
+echo -e  "\e[95;1m YOUR CHOICE IS RESTORE. \e[0m"
+echo -e  " "
+cd /storage/emulated/0
+F=/storage/emulated/0/PUBGM #if for pubg-folder
+if [ -d "$F" ]; then
+echo -e  "\e[95;1m PLEASE WAIT. \e[0m"
+echo -e  " "
+cd /storage/emulated/0
+F=/storage/emulated/0/Android/obb
+if [ -d "$F" ]; then #if for obb checks
+cd /storage/emulated/0
+F=/storage/emulated/0/Android/obb/com.tencent.ig
+if [ -d "$F" ]; then #if for remove obb-contains
+cd /storage/emulated/0/Android/obb
+rm -R com.tencent.ig
+cd /storage/emulated/0/PUBGM/OBB
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/Android/obb
+echo -e  " "
+cd /storage/emulated/0/PUBGM/DATA
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/Android/data
+echo -e  " "
+cd /storage/emulated/0/PUBGM/APK
+pm install base.apk
+echo -e  " "
+echo -e  "\e[95;1m DONE. \e[0m"
+sleep 3
+else
+cd /storage/emulated/0/PUBGM/OBB
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/Android/obb
+echo -e  " "
+cd /storage/emulated/0/PUBGM/DATA
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/Android/data
+echo -e  " "
+cd /storage/emulated/0/PUBGM/APK
+pm install base.apk
+echo -e  " "
+echo -e  "\e[95;1m DONE. \e[0m"
+sleep 3
+fi
+else
+cd /storage/emulated/0/Android
+mkdir obb
+cd /storage/emulated/0
+F=/storage/emulated/0/Android/obb/com.tencent.ig
+if [ -d "$F" ]; then #if for remove obb-contains
+cd /storage/emulated/0/Android/obb
+rm -R com.tencent.ig
+cd /storage/emulated/0/PUBGM/OBB
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/Android/obb
+echo -e  " "
+cd /storage/emulated/0/PUBGM/DATA
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/Android/data
+echo -e  " "
+cd /storage/emulated/0/PUBGM/APK
+pm install base.apk
+echo -e  " "
+echo -e  "\e[95;1m DONE. \e[0m"
+else
+cd /storage/emulated/0/PUBGM/OBB
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/Android/obb
+echo -e  " "
+cd /storage/emulated/0/PUBGM/DATA 
+rsync -r --info=progress2 com.tencent.ig /storage/emulated/0/Android/data
+echo -e  " "
+cd /storage/emulated/0/PUBGM/APK
+pm install base.apk
+echo -e  " "
+echo -e  "\e[95;1m DONE. \e[0m"
+fi
+fi
+else
+echo -e  "\e[91;1m PUBG_FOLDER DOES NOT EXITS. \e[0m"
+fi
+echo -e  " ";;
+esac
+echo -e " ";;
+4)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                       *"
+cat<< "EOF"
+*  _____  _    _ ____   _____        __  __   _  ______  _____  ______          _   _   *
+* |  __ \| |  | |  _ \ / ____|      |  \/  | | |/ / __ \|  __ \|  ____|   /\   | \ | |  *
+* | |__) | |  | | |_) | |  __ ______| \  / | | ' / |  | | |__) | |__     /  \  |  \| |  *
+* |  ___/| |  | |  _ <| | |_ |______| |\/| | |  <| |  | |  _  /|  __|   / /\ \ | . ` |  *
+* | |    | |__| | |_) | |__| |      | |  | | | . \ |__| | | \ \| |____ / ____ \| |\  |  *
+* |_|     \____/|____/ \_____|      |_|  |_| |_|\_\____/|_|  \_\______/_/    \_\_| \_|  *
+*                                                                                       *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                       *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e  "\e[94;1m[ PLEASE CHOICE YOUR OPTION ]\e[0m"
+echo -e  " "
+echo -e  "\e[91;1m [1] BACKUP PUBG-M KOREAN.\e[0m"
+echo -e  " "
+echo -e  "\e[94;1m [2] RESTORE PUBG-M KOREAN.\e[0m"
+echo -e  " "
+echo -e  " \e[95;1m[ CHOOSE YOUR CHOICE TO PERFORM ACTION. ]\e[0m"
+echo -e  " "
+read n
+echo -e " "
+echo -e "\e[94;1m[ SELECTED CHOICE IS $n ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m[ PLEASE PRESS ANY KEY TO COUNTINUE. ]\e[0m"
+read
+clear
+case $n in
+1)
+echo -e  "\e[94;1m YOUR CHOICE IS PUBGM_BACKUP. \e[0m"
+echo -e  " "
+echo -e  "\e[91;1m [ PLEASE WAIT. ]\e[0m"
+echo -e  " "
+{
+cd /storage/emulated/0
+F=/storage/emulated/0/PUBGM-1
+if [ -d "$F" ]; then
+cd /storage/emulated/0/
+rm -r PUBGM-1
+cd /storage/emulated/0
+mkdir PUBGM-1
+cd /storage/emulated/0/PUBGM-1
+mkdir DATA
+cd /storage/emulated/0/PUBGM-1/DATA
+mkdir com.pubg.krmobile
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile
+mkdir files
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files
+mkdir UE4Game
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files/UE4Game
+mkdir ShadowTrackerExtra
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra
+mkdir ShadowTrackerExtra
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra
+mkdir Saved
+cd /storage/emulated/0/PUBGM-1
+mkdir OBB
+cd /storage/emulated/0/PUBGM-1
+mkdir APK
+echo -e  " "
+cd /storage/emulated/0/Android/obb
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/PUBGM-1/OBB
+echo -e  " "
+cd /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
+rsync -r --info=progress2 paks /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved
+echo -e  " "
+cd /data/app/com.pubg.krmobile-1/
+cp base.apk /storage/emulated/0/PUBGM-1/APK
+echo -e  "\e[95;1m [ DONE. ]\e[0m"
+echo -e  " "
+echo -e  "\e[95;1m [ PLEASE CHECK YOUR STORAGE FOLDER CALLED 'PUBGM' ]\e[0m"
+sleep 3
+else
+echo -e  "\e[95;1m [ NO PUBGM_FOLDER IS FOUND. ]\e[0m"
+echo -e  " "
+echo -e  "\e[95;1m [ PLEASE WAIT. ]\e[0m"
+echo -e  " "
+cd /storage/emulated/0
+mkdir PUBGM-1
+cd /storage/emulated/0/PUBGM-1
+mkdir DATA
+cd /storage/emulated/0/PUBGM-1/DATA
+mkdir com.pubg.krmobile
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile
+mkdir files
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files
+mkdir UE4Game
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files/UE4Game
+mkdir ShadowTrackerExtra
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra
+mkdir ShadowTrackerExtra
+cd /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra
+mkdir Saved
+cd /storage/emulated/0/PUBGM-1
+mkdir OBB
+cd /storage/emulated/0/PUBGM-1
+mkdir APK
+cd /storage/emulated/0/Android/obb
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/PUBGM-1/OBB
+echo -e  " "
+cd /storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/
+rsync -r --info=progress2 paks /storage/emulated/0/PUBGM-1/DATA/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved
+echo -e " "
+cd /data/app/com.pubg.krmobile-1/
+cp base.apk /storage/emulated/0/PUBGM-1/APK
+echo -e  " "
+echo -e  "\e[95;1m [ 100% DONE ]\e[0m"
+echo -e  " "
+echo -e  "\e[95;1m [ PLEASE CHECK YOUR STORAGE FOLDER CALLED 'PUBGM' ]\e[0m"
+sleep 3
+fi
+}
+echo -e  " " ;;
+2)
+echo -e  "\e[95;1m YOUR CHOICE IS RESTORE. \e[0m"
+echo -e  " "
+echo -e  "\e[95;1m PLEASE WAIT.\e[0m"
+echo -e  " "
+cd /storage/emulated/0
+F=/storage/emulated/0/PUBGM-1 #if for pubg-folder
+if [ -d "$F" ]; then
+cd /storage/emulated/0
+F=/storage/emulated/0/Android/obb
+if [ -d "$F" ]; then #if for obb checks
+cd /storage/emulated/0
+F=/storage/emulated/0/Android/obb/com.pubg.krmobile
+if [ -d "$F" ]; then #if for remove obb-contains
+cd /storage/emulated/0/Android/obb
+rm -R com.pubg.krmobile
+cd /storage/emulated/0/PUBGM-1/OBB
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/Android/obb
+echo -e  " "
+cd /storage/emulated/0/PUBGM-1/DATA
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/Android/data
+echo -e  " "
+cd /storage/emulated/0/PUBGM-1/APK
+pm install base.apk
+echo -e  " "
+echo -e  "\e[95;1m  DONE. \e[0m"
+else
+cd /storage/emulated/0/PUBGM-1/OBB
+rsync -r --info=progress2 /storage/emulated/0/Android/obb
+echo -e  " "
+cd /storage/emulated/0/PUBGM-1/DATA
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/Android/data
+echo -e  " "
+cd /storage/emulated/0/PUBGM-1/APK
+pm install base.apk
+echo -e  " "
+echo -e  "\e[95;1m DONE. \e[0m"
+fi
+else
+cd /storage/emulated/0/Android
+mkdir obb
+cd /storage/emulated/0
+F=/storage/emulated/0/Android/obb/com.pubg.krmobile
+if [ -d "$F" ]; then #if for remove obb-contains
+cd /storage/emulated/0/Android/obb
+rm -R com.pubg.krmobile
+cd /storage/emulated/0/PUBGM-1/OBB
+echo -e " "
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/Android/obb
+echo -e  " "
+cd /storage/emulated/0/PUBGM-1/DATA
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/Android/data
+echo -e  " "
+cd /storage/emulated/0/PUBGM-1/APK
+pm install base.apk
+else
+cd /storage/emulated/0/PUBGM-1/OBB
+echo -e " "
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/Android/obb
+echo -e  " "
+cd /storage/emulated/0/PUBGM-1/DATA
+rsync -r --info=progress2 com.pubg.krmobile /storage/emulated/0/Android/data
+echo -e  " "
+cd /storage/emulated/0/PUBGM-1/APK
+pm install base.apk
+echo -e  " "
+echo -e  "\e[95;1m DONE. \e[0m"
+fi
+fi
+else
+echo -e  "\e[91;1m PUBG_FOLDER DOES NOT EXITS. \e[0m"
+sleep 3
+fi
+echo -e  " ";;
+esac
+echo -e " ";;
+5)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                       *"
+cat<< "EOF"
+*   _    _ _    _ _____    __  __  ____  _____  ______  *
+*  | |  | | |  | |  __ \  |  \/  |/ __ \|  __ \|  ____| *
+*  | |  | | |__| | |  | | | \  / | |  | | |  | | |__    *
+*  | |  | |  __  | |  | | | |\/| | |  | | |  | |  __|   *
+*  | |__| | |  | | |__| | | |  | | |__| | |__| | |____  *
+*   \____/|_|  |_|_____/  |_|  |_|\____/|_____/|______| *
+EOF
+echo -e "\e[0m\e[94;1m*                                                       *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[95;1m [ PRESS ENTER TO START PROCESS OR CTRL+C TO CANCLE IT ]\e[0m"
+echo -e " "
+read c
+sleep 0.7
+echo -e "\e[91;1m [ UNLOCKING HIGHEST POSSIBLE SETTING IN PUBG-M ]\e[0m"
+echo -e " "
+sleep 0.5
+cp /system/lib/libssll.so /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+cd /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+mv libssll.so game_patch_1.4.0.14924.pak
+clear
+cp /system/lib/libssll.so /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+cd /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+mv libssll.so game_patch_1.4.0.14924.pak
+clear
+cp /system/lib/libssll.so /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+cd /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+mv libssll.so game_patch_1.4.0.14924.pak
+clear
+cp /system/lib/libssll.so /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+cd /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+mv libssll.so game_patch_1.4.0.14924.pak
+clear
+cp /system/lib/libssll.so /sdcard/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+cd /sdcard/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+mv libssll.so game_patch_1.4.0.14924.pak
+clear
+cp /system/lib/libssll.so /sdcard/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+cd /sdcard/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+mv libssll.so game_patch_1.4.0.14924
+clear
+echo -e "\e[95;1m [ Done.]\e[0m"
+sleep 3
+echo -e " "
+echo -e " ";;
+6)
+cd /system/bin
+aos
+echo -e " ";;
+esac 
+echo -e " ";;
+5)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                                   *"
+cat<< "EOF"
+*   _______     _______ _______ ______ __  __   _________          ________          _  __ _____    *
+*  / ____\ \   / / ____|__   __|  ____|  \/  | |__   __\ \        / /  ____|   /\   | |/ // ____|   *
+* | (___  \ \_/ / (___    | |  | |__  | \  / |    | |   \ \  /\  / /| |__     /  \  | ' /| (___     *
+*  \___ \  \   / \___ \   | |  |  __| | |\/| |    | |    \ \/  \/ / |  __|   / /\ \ |  <  \___ \    *
+*  ____) |  | |  ____) |  | |  | |____| |  | |    | |     \  /\  /  | |____ / ____ \| . \ ____) |   *
+* |_____/   |_| |_____/   |_|  |______|_|  |_|    |_|      \/  \/   |______/_/    \_\_|\_\_____/    *
+*                                                                                                   *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                                   *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e " "
+echo -e "\e[94;1m [1] ANIMATION. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [2] CLEAR CACHE. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [3] LAUNCHER. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [4] GOOGLE APPS. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [5] FACTORY RESET. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [6] UPDATER.\e[0m"
+echo -e " "
+echo -e "\e[94;1m [7] Return To Main Menu. \e[0m"
+echo -e " "
+echo -e "\e[95;1m ENTER YOUR CHOICE :- \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                         *"
+cat<< "EOF"
+*             _   _  _____  __  __         _______  _____  ____   _   _   *
+*      /\    | \ | ||_   _||  \/  |    /\ |__   __||_   _|/ __ \ | \ | |  *
+*     /  \   |  \| |  | |  | \  / |   /  \   | |     | | | |  | ||  \| |  *
+*    / /\ \  | . ` |  | |  | |\/| |  / /\ \  | |     | | | |  | || . ` |  *
+*   / ____ \ | |\  | _| |_ | |  | | / ____ \ | |    _| |_| |__| || |\  |  *
+*  /_/    \_\|_| \_||_____||_|  |_|/_/    \_\|_|   |_____|\____/ |_| \_|  *
+*                                                                         *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                         *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ SELECT YOUR OPTION ]\e[0m"
+echo -e  " "
+echo -e "\e[91;1m [1] NO ANIMATION.  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] LESS ANIMATION. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] Default ANIMATION. \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[96;1m[ TWEAKING ]\e[0m"
+settings put global window_animation_scale 0
+settings put global transition_animation_scale 0
+settings put global animator_duration_scale 0
+sleep 1
+echo -e " "
+echo -e "\e[96;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[93;1m[ Press ALT+F7 or ALT+FN+F7 to Exit ]\e[0m"
+;;
+2)
+echo -e "\e[96;1m[ TWEAKING SETTINGS... ]\e[0m"
+settings put global window_animation_scale 0.5
+settings put global transition_animation_scale 0.5
+settings put global animator_duration_scale 0.5
+sleep 1
+echo -e " "
+echo -e "\e[94;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[96;1m[ Press ALT+F7 or ALT+FN+F7 to Exit ]\e[0m"
+;;
+3)
+echo -e "\e[96;1m[ TWEAKING SETTINGS... ]\e[0m"
+settings put global window_animation_scale 1
+settings put global transition_animation_scale 1
+settings put global animator_duration_scale 1
+sleep 1
+echo -e " "
+echo -e "\e[94;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[96;1m[ Press ALT+F7 or only F7 to Exit ]\e[0m"
+;;
+esac
+echo -e " ";;
+2)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                       *"
+cat << "EOF"
+*   _____  _       ______            _____     _____            _____  _    _  ______   *
+*  / ____|| |     |  ____|    /\    |  __ \   / ____|    /\    / ____|| |  | ||  ____|  *
+* | |     | |     | |__      /  \   | |__) | | |        /  \  | |     | |__| || |__     *
+* | |     | |     |  __|    / /\ \  |  _  /  | |       / /\ \ | |     |  __  ||  __|    *
+* | |____ | |____ | |____  / ____ \ | | \ \  | |____  / ____ \| |____ | |  | || |____   *
+*  \_____||______||______|/_/    \_\|_|  \_\  \_____|/_/    \_\\_____||_|  |_||______|  *
+*                                                                                       *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                       *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ Select the options below ]\e[0m"
+echo -e  " " 
+echo -e "\e[91;1m [1] CLEAR DALVIK CACHE.  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] CLEAR APP CACHE. \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[91;1m[ CLEARING DALVIK CACHE ]\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ IT MAY NEED ABOVE 4 MINUTES FOR NEXT BOOT. ]\e[0m"
+rm -rf /data/dalvik-cache/*
+echo -e " "
+echo -e "\e[97;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+;;
+2)
+echo -e "\e[91;1m[ CLEARING APP CACHE ]\e[0m"
+cd /data/data
+find . -name cache -type d -exec rm -rf {} +
+cd /data/media/0/Android/data
+find . -name cache -type d -exec rm -rf {} +
+echo -e " "
+echo -e "\e[92;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[98;1m[ Press ALT+F7 or ALT+FN+F7 to Exit ]\e[0m"
+sleep 3
+;;
+esac
+echo -e "" ;;
+3)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                    *"
+cat << "EOF"
+*  _                _    _  _   _   _____  _    _  ______  _____    *
+* | |         /\   | |  | || \ | | / ____|| |  | ||  ____||  __ \   *
+* | |        /  \  | |  | ||  \| || |     | |__| || |__   | |__) |  *
+* | |       / /\ \ | |  | || . ` || |     |  __  ||  __|  |  _  /   *
+* | |____  / ____ \| |__| || |\  || |____ | |  | || |____ | | \ \   *
+* |______|/_/    \_\\____/ |_| \_| \_____||_|  |_||______||_|  \_\  *
+*                                                                   *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                    *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ SELECT YOUR CHOICE ]\e[0m"
+echo -e  " " 
+echo -e "\e[91;1m [1] TABLET MODE. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] DESKTOP MODE. \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[91;1m[ ACTIVATING TABLET MODE ]\e[0m"
+echo -e " "
+if [ -d /system/app/FileManager ]; then
+mkdir /system/.aos
+mv /system/app/FileManager /system/.aos
+clear
+echo -e "\e[94;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+else
+echo -e "\e[98;1m[ ALREADY ACTIVATED. ]\e[0m"
+fi
+;;
+2)
+echo -e "\e[91;1m[ ACTIVATING DESKTOP MODE ]\e[0m"
+echo -e " "
+mv /system/.aos/FileManager /system/app
+rmdir /system/.aos
+sleep 3
+echo -e "\e[92;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 3
+reboot
+;;
+esac
+echo -e "" ;;
+4)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                               *"
+cat<< "EOF"
+*    _____  ____   ____   _____ _      ______            _____  _____   _____   *
+*   / ____|/ __ \ / __ \ / ____| |    |  ____|     /\   |  __ \|  __ \ / ____|  *
+*  | |  __| |  | | |  | | |  __| |    | |__       /  \  | |__) | |__) | (___    *
+*  | | |_ | |  | | |  | | | |_ | |    |  __|     / /\ \ |  ___/|  ___/ \___ \   *
+*  | |__| | |__| | |__| | |__| | |____| |____   / ____ \| |    | |     ____) |  *
+*   \_____|\____/ \____/ \_____|______|______| /_/    \_\_|    |_|    |_____/   *
+*                                                                               *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                               *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ SELECT YOUR CHOICE ]\e[0m"
+echo -e  " "
+echo -e "\e[91;1m [1] DISABLE  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] ENABLE \e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] PERMANENTLY REMOVE. \e[0m"
+echo -e " "
+echo -e "\e[95;1m [4] RETURN TO MAIN MENU. \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[96;1m[ Removing GAPPS ]\e[0m"
+mv /data/app/com.android.vending-1 /system/.cz
+mv /data/app/com.android.vending /system/.cz
+rm -r /data/app/com.google.android.play.games-1
+rm -r /data/app/com.google.android.play.games
+mv /system/priv-app/GmsCore /system/.cz
+mv /system/priv-app/GmsCoreSetup /system/.cz
+mv /system/priv-app/PrebuiltGmsCore /system/.cz
+mv /system/priv-app/Phonesky /system/.cz
+clear
+echo -e " "
+echo -e "\e[95;1m[ Done ]\e[0m"
+echo -e " "
+echo -e "\e[96;1m[ REBOOTING ]\e[0m"
+sleep 3
+reboot
+;;
+2)
+echo -e "\e[91;1m[ Restoring Google Apps ]\e[0m"
+mv /system/.cz/GmsCore /system/priv-app
+mv /system/.cz/GmsCoreSetup /system/priv-app
+mv /system/.cz/PrebuiltGmsCore /system/priv-app
+mv /system/.cz/Phonesky /system/priv-app
+mv /system/.cz/com.android.vending-1 /data/app/
+mv /system/.cz/com.android.vending /data/app/
+pm install /system/.cz/com.google.android.play.games-1/base.apk
+pm install /system/.cz/com.google.android.play.games/base.apk
+clear
+echo -e " "
+echo -e "\e[92;1m[ Done ]\e[0m"
+echo -e ""
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 3
+reboot
+;;
+3)
+echo -e "\e[96;1m[ PERMANENTLY REMOVING GOOGLE APPS ]\e[0m"
+rm -r /data/app/com.android.vending-1
+rm -r /data/app/com.android.vending
+rm -r /data/app/com.google.android.play.games-1
+rm -r /data/app/com.google.android.play.games
+rm -r /system/priv-app/GmsCore
+rm -r /system/priv-app/GmsCoreSetup
+rm -r /system/priv-app/PrebuiltGmsCore
+rm -r /system/priv-app/Phonesky
+clear
+echo -e " "
+echo -e "\e[95;1m[ Done ]\e[0m"
+echo -e " "
+echo -e "\e[96;1m[ REBOOTING ]\e[0m"
+sleep 3
+reboot
+;;
+4)
+cd /system/bin
+aos
+;;
+esac
+echo -e " ";;
+5)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                                   *"
+cat<< "EOF"
+*  ______        _____  _______  ____   _____ __     __  _____   ______   _____  ______  _______   *
+* |  ____|/\    / ____||__   __|/ __ \ |  __ \\ \   / / |  __ \ |  ____| / ____||  ____||__   __|  *
+* | |__  /  \  | |        | |  | |  | || |__) |\ \_/ /  | |__) || |__   | (___  | |__      | |     *
+* |  __|/ /\ \ | |        | |  | |  | ||  _  /  \   /   |  _  / |  __|   \___ \ |  __|     | |     *
+* | |  / ____ \| |____    | |  | |__| || | \ \   | |    | | \ \ | |____  ____) || |____    | |     *
+* |_| /_/    \_\\_____|   |_|   \____/ |_|  \_\  |_|    |_|  \_\|______||_____/ |______|   |_|     *
+*                                                                                                  *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                                   *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ SELECT YOUR CHOICE]\e[0m"
+echo -e  " "
+echo -e "\e[91;1m [1] FACTORY RESET  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] RETURN TO MAINMENU. \e[0m"
+echo -e " "
+read c
+clear
+case $c in 
+1)
+echo -e "\e[91;1m[ PERFORMING FACTORY RESET ]\e[0m"
+rm -r /data/*
+sleep 3
+echo -e " "
+echo -e "\e[94;1m[ Done ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m[ REBOOTING ]\e[0m"
+sleep 3
+reboot
+;;
+2)
+cd /system/bin
+aos
+;;
+esac
+echo -e " " ;;
+6)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                           *"
+cat<< "EOF"
+*   _    _  _____   _____         _______  ______  _____    *
+*  | |  | ||  __ \ |  __ \    /\ |__   __||  ____||  __ \   *
+*  | |  | || |__) || |  | |  /  \   | |   | |__   | |__) |  *
+*  | |  | ||  ___/ | |  | | / /\ \  | |   |  __|  |  _  /   *
+*  | |__| || |     | |__| |/ ____ \ | |   | |____ | | \ \   *
+*   \____/ |_|     |_____//_/    \_\|_|   |______||_|  \_\  *
+*                                                           *
+EOF
+echo -e "\e[0m\e[94;1m*                                                           *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+read
+echo -e "\e[94;1m[ SELECT YOUR CHOICE ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [1] SYSTEM UPDATE. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] RETURN TO MAINMENU \e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] Exit. \e[0m"
+echo -e " "
+echo -e "\e[95;1m SELECT YOUR OPTION TO BEGIN UPDATE > \e[0m"
+read n
+clear
+case $n in
+1)
+echo -e  " "
+echo -e "\e[94;1m[ Your Choice is [ $n ] SYSTEM UPDATE.] \e[0m"
+echo -e  " "
+sleep 1
+echo -e "\e[91;1m CHECKING ANIMUS FOLDER.\e[0m"
+sleep 0.5
+echo -e " "
+F=/storage/emulated/0/Animus/System.zip
+if [ -f "$F" ]; then
+echo -e "\e[94;1m FOUND SYSTEM.ZIP FILE.\e[0m"
+echo -e " "
+sleep 1
+echo -e "\e[91;1m DECOMPRESSING ZIP FILE.\e[0m"
+echo -e " "
+cd /sdcard/Animus
+unzip -oq System.zip
+echo -e "\e[94;1mUPDATING\e[0m"
+echo -e " "
+sleep 0.5
+cd /sdcard/Animus/AOS
+sh installer.sh
+else
+echo -e "\e[91;1m System.zip is Not Found.\e[0m"
+echo -e " "
+echo -e "\e[94;1m REBOOTING.\e[0m"
+reboot
+fi
+echo -e " ";;
+2)
+cd /system/bin
+aos
+echo -e " ";;
+3)
+exit
+echo -e " ";;
+esac
+echo -e " ";;
+7)
+cd /system/bin
+./aos ;;
+esac 
+echo -e " ";;
+6)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                                 *"
+cat << "EOF"
+*           _   _ _____ __  __ _    _  _____    _____ _____  ______ _____ _____          _        *
+*     /\   | \ | |_   _|  \/  | |  | |/ ____|  / ____|  __ \|  ____/ ____|_   _|   /\   | |       *
+*    /  \  |  \| | | | | \  / | |  | | (___   | (___ | |__) | |__ | |      | |    /  \  | |       *
+*   / /\ \ | . ` | | | | |\/| | |  | |\___ \   \___ \|  ___/|  __|| |      | |   / /\ \ | |       *
+*  / ____ \| |\  |_| |_| |  | | |__| |____) |  ____) | |    | |___| |____ _| |_ / ____ \| |____   *
+* /_/    \_\_| \_|_____|_|  |_|\____/|_____/  |_____/|_|    |______\_____|_____/_/    \_\______|  *
+*                                                                                                 *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                                 *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ CHOOSE YOUR OPTION ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m [1] ETHERNET & VIRTUAL WIFI.  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] MICROPHONE.  \e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] DISPLAY RESOLUTION.  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [4] DEFAULT MESA RESTORE. \e[0m"
+echo -e " "
+echo -e "\e[91;1m [5] DEFAULT KERNEL RESTORE. \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                             *"
+cat << "EOF"
+*  ______ _______ _    _ ______ _____  _   _ ______ _______   *
+* |  ____|__   __| |  | |  ____|  __ \| \ | |  ____|__   __|  *
+* | |__     | |  | |__| | |__  | |__) |  \| | |__     | |     *
+* |  __|    | |  |  __  |  __| |  _  /| . ` |  __|    | |     *
+* | |____   | |  | |  | | |____| | \ \| |\  | |____   | |     *
+* |______|  |_|  |_|  |_|______|_|  \_\_| \_|______|  |_|     *
+*                                                             *
+EOF
+echo -e "\e[0m\e[94;1m*                                                             *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[34;1m-----------------------------\e[0m"
+echo -e "\e[34;1m|\e[0m DEVELOPED FOR \e[5mABSTERGO-OS\e[0m \e[34;1m|\e[0m"
+echo -e "\e[34;1m-----------------------------\e[0m"
+echo -e "\e[34;1m---------------------------\e[0m"
+echo -e "\e[94;1m|PRESS ANY KEY TO CONTINUE|\e[0m"
+echo -e "\e[34;1m---------------------------\e[0m"
+read c
+echo -e "\e[34;1m---------------------------\e[0m"
+echo -e "\e[34;1m|\e[0m  1) Turn ETHERNET \e[92;1m ON\e[0m   \e[34;1m|\e[0m"
+echo -e "\e[34;1m|\e[0m  2) Turn VIRTUAL WIFI\e[31;1m ON\e[0m\e[34;1m|\e[0m"
+echo -e "\e[34;1m---------------------------\e[0m"
+read x
+case $x in
+1) 
+echo -e "\e[34;1mTURNING \e[92;1mON\e[0m  ETHERNET..\e[0m"
+modprobe rndis_host
+modprobe cdc_ether
+modprobe usbnet
+modprobe usbcore
+modprobe usb_common
+ifconfig eth0 down
+ifconfig eth1 down
+ip link set eth0 name eth_bak
+ip link set eth1 name eth0
+ifconfig eth0 up
+echo -e "ETHERNET ACTIVATED"
+echo -e "GO TO SETTINGS AND TURN ON ETHERNET NOW "
+echo -e "\e[34;1mPRESS ANY KEY TO \e[31;1mEXIT\e[0m  \e[0m"
+echo -e " "
+read c
+;;
+2)
+echo -e "\e[34;1mTURNING \e[31;1m ON \e[0m VIRTUAL WIFI IF YOUR KERNEL SUPPORTS IT..\e[0m"
+ifconfig eth0 down 
+ifconfig eth_bak down 
+ip link set eth0 name eth1 
+ip link set eth_bak name eth0 
+ifconfig eth0 up
+echo -e "\e[34;1mVIRTUAL WIFI ACTIVATED, GO TO WIFI SETTING AND CONNECT TO VirtWiFi....\e[0m"
+echo -e "\e[34;1mPRESS ANY KEY TO \e[31;1mEXIT\e[0m  \e[0m"
+echo -e " "
+read c
+;;
+esac
+echo -e " ";;
+2)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                       *"
+cat << "EOF"
+*  __  __ _____ _____ _____   ____  _____  _    _  ____  _   _ ______   *
+* |  \/  |_   _/ ____|  __ \ / __ \|  __ \| |  | |/ __ \| \ | |  ____|  *
+* | \  / | | || |    | |__) | |  | | |__) | |__| | |  | |  \| | |__     *
+* | |\/| | | || |    |  _  /| |  | |  ___/|  __  | |  | | . ` |  __|    *
+* | |  | |_| || |____| | \ \| |__| | |    | |  | | |__| | |\  | |____   *
+* |_|  |_|_____\_____|_|  \_\\____/|_|    |_|  |_|\____/|_| \_|______|  *
+*                                                                       *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                       *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[94;1m [1] MIC FIX (MIC BOOST 0).  \e[0m"
+echo -e " "
+echo -e "\e[91;1m [2] MIC FIX (MIC BOOST 1). \e[0m"
+echo -e " "
+echo -e "\e[94;1m [3] MIC FIX (MIC BOOST 2). \e[0m"
+echo -e " "
+echo -e "\e[91;1m [4] MIC FIX (MIC BOOST 4). \e[0m"
+echo -e " "
+echo -e "\e[94;1m [5] HEADSET MIC (LAPTOP). \e[0m"
+echo -e " "
+echo -e "\e[91;1m [6] HEADSET MIC (PC). \e[0m"
+echo -e " "
+echo -e "\e[94;1m [7] Return to main menu. \e[0m"
+echo -e " "
+echo -e "\e[95;1m|PRESS ENTER YOUR CHOICE.|\e[0m"
+read c
+clear
+case $c in
+1)
+alsa_amixer sget 'Input Source'
+alsa_amixer sset 'Input Source' 'Front Mic'
+alsa_amixer sget 'Auto-Mute Mode'
+alsa_amixer sset 'Auto-Mute Mode' 'Disabled'
+alsa_amixer sget 'Front Mic boost'
+alsa_amixer sset 'Front Mic Boost' '0'
+clear
+echo -e "\e[94;1m|YOUR FRONT MIC BOOST IS SET TO 0 FOR TEMPORARY.|\e[0m"
+read c
+;;
+2)
+alsa_amixer sget 'Input Source'
+alsa_amixer sset 'Input Source' 'Front Mic'
+alsa_amixer sget 'Auto-Mute Mode'
+alsa_amixer sset 'Auto-Mute Mode' 'Disabled'
+alsa_amixer sget 'Front Mic boost'
+alsa_amixer sset 'Front Mic Boost' '1'
+clear
+echo -e "\e[94;1m|YOUR FRONT MIC BOOST IS SET TO 1 FOR TEMPORARY.|\e[0m"
+read c
+;;
+3)
+alsa_amixer sget 'Input Source'
+alsa_amixer sset 'Input Source' 'Front Mic'
+alsa_amixer sget 'Auto-Mute Mode'
+alsa_amixer sset 'Auto-Mute Mode' 'Disabled'
+alsa_amixer sget 'Front Mic boost'
+alsa_amixer sset 'Front Mic Boost' '2'
+clear
+echo -e "\e[94;1m|YOUR FRONT MIC BOOST IS SET TO 2 FOR TEMPORARY.|\e[0m"
+read c
+;;
+4)
+alsa_amixer sget 'Input Source'
+alsa_amixer sset 'Input Source' 'Front Mic'
+alsa_amixer sget 'Auto-Mute Mode'
+alsa_amixer sset 'Auto-Mute Mode' 'Disabled'
+alsa_amixer sget 'Front Mic boost'
+alsa_amixer sset 'Front Mic Boost' '4'
+clear
+echo -e "\e[94;1m|YOUR FRONT MIC BOOST IS SET TO 4 FOR TEMPORARY.|\e[0m"
+read c
+;;
+5)
+mv /system/etc/init.sh init.backup
+cp -f /system/etc/security/cacerts/.animus/L/init.sh /system/etc/
+echo -e "\e[0m\e[94;1mYOUR MIC HAS BEEN FIXED PERMANENTLY."
+echo -e "\e[0m\e[94;1mREBOOTING IN 5 SECONDS."
+sleep 5
+reboot
+;;
+6)
+mv /system/etc/init.sh init.backup
+cp -f /system/etc/security/cacerts/.animus/PC/init.sh /system/etc/
+echo -e "\e[0m\e[94;1mYOUR MIC HAS BEEN FIXED PERMANENTLY."
+echo -e "\e[0m\e[94;1mREBOOTING IN 5 SECONDS."
+sleep 5
+reboot
+;;
+7)
+cd /system/bin
+aos;;
+esac
+echo -e " ";;
+3)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                       *"
+cat<< "EOF"
+*  _____  ______  _____  ____  _     _    _ _______ _____ ____  _   _   *
+* |  __ \|  ____|/ ____|/ __ \| |   | |  | |__   __|_   _/ __ \| \ | |  *
+* | |__) | |__  | (___ | |  | | |   | |  | |  | |    | || |  | |  \| |  *
+* |  _  /|  __|  \___ \| |  | | |   | |  | |  | |    | || |  | | . ` |  *
+* | | \ \| |____ ____) | |__| | |___| |__| |  | |   _| || |__| | |\  |  *
+* |_|  \_\______|_____/ \____/|______\____/   |_|  |_____\____/|_| \_|  *
+*                                                                       *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                       *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+echo -e  "\e[93;2m[ This script is used to CHANGE SCREEN RESOLUTION ]\e[0m"
+echo -e " "
+wm size > /system/etc/display.txt
+wm density > /system/etc/density.txt
+sc=$(cat /system/etc/display.txt)
+dc=$(cat /system/etc/density.txt)
+echo -e "\e[94;1m[ SELECT YOUR CHOICE ]\e[0m"
+echo -e  " "
+echo -e "\e[91;1m [1] I-Pad View  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] Tablet View \e[0m"
+echo -e " "
+echo -e "\e[91;1m [3] Custom Resolution \e[0m"
+echo -e " "
+echo -e "\e[94;1m [4] Reset Resolution \e[0m"
+echo -e " "
+echo -e "\e[91;1m [5] Set density [dpi]. \e[0m"
+echo -e " "
+echo -e "\e[94;1m [6] Reset density [dpi]. \e[0m"
+echo -e " "
+echo -e "\e[95;1m [7] Return to main menu. \e[0m"
+echo -e " "
+read c
+clear
+case $c in
+1)
+echo -e "\e[91;1m[ Changing Default Resolution to I-Pad Resolution ]\e[0m"
+wm size 1440x1080
+echo -e " "
+echo -e "\e[94;1m[ I-PAD View Applied ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m[ Press Alt+f7 To close Termianl. ]\e[0m"
+read c
+;;
+2)
+echo -e "\e[94;1m[ Changing Default Resolution to Tablet View ]\e[0m"
+wm size 1024x576
+echo -e "\e[91;1m[ Tablet View Applied ]\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ Press Alt+f7 To close Termianl. ]\e[0m"
+read c
+;;
+3)
+echo -e "\e[91;1m[ Your choice is Set Custom Resolution. \e[0m"
+echo -e " " 
+echo -e "\e[94;1m[ Current is [ $sc ].\e[0m"
+echo -e " "
+echo -e "\e[91;1m Enter The wight :- ]\e[0m"
+echo -e " "
+read w   
+echo -e "\e[94;1m Enter The hight :- \e[0m"
+echo -e " "
+read h 
+echo -e "\e[91;1m[ resolution is "$w"x"$h" .]e\[0m"  
+wm size "$w"x"$h"
+echo -e "\e[94;1m[ Done. ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m[ Press Alt+f7 To close Termianl. ]\e[0m"
+read c
+;;
+4)
+echo -e "\e[94;1m[ Your choice is Reset Resolution.\e[0m"
+echo -e " "
+wm size reset
+echo -e " "
+echo -e "\e[91;1m[ Done. ]\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ Press Alt+f7 To close Termianl. ]\e[0m"
+read c
+;;
+5)
+echo -e "\e[91;1m[ Your choice is Set density [dpi]. \e[0m"
+echo -e " " 
+echo -e "\e[94;1m[ Current is [ $dc ].\e[0m"
+echo -e " "
+echo -e "\e[91;1m Enter The dpi :- ]\e[0m"
+echo -e " "
+read dpi   
+echo -e " "
+echo -e "\e[94;1m[ Density [dpi] is "$dpi" .]e\[0m"  
+wm density "$dpi"
+echo -e "\e[91;1m[ Done. ]\e[0m"
+echo -e " "
+echo -e "\e[94;1m[ Press Alt+f7 To close Termianl. ]\e[0m"
+read c
+;;
+6)
+echo -e "\e[91;1m[ Your choice is Reset Density.\e[0m"
+echo -e " "
+wm density reset
+echo -e " "
+echo -e "\e[94;1m[ Done. ]\e[0m"
+echo -e " "
+echo -e "\e[91;1m[ Press Alt+f7 To close Termianl. ]\e[0m"
+read c
+;;
+7)
+cd /system/bin
+aos;;
+esac
+echo -e " ";;
+4)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                 *"
+cat << "EOF"
+*   _____  ______ ______     _    _ _   _______   __  __ ______  _____            *
+*  |  __ \|  ____|  ____/\  | |  | | | |__   __| |  \/  |  ____|/ ____|  /\       *
+*  | |  | | |__  | |__ /  \ | |  | | |    | |    | \  / | |__  | (___   /  \      *
+*  | |  | |  __| |  __/ /\ \| |  | | |    | |    | |\/| |  __|  \___ \ / /\ \     *
+*  | |__| | |____| | / ____ \ |__| | |____| |    | |  | | |____ ____) / ____ \    *
+*  |_____/|______|_|/_/    \_\____/|______|_|    |_|  |_|______|_____/_/    \_\   *
+*                                                                                 *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                 *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[95;1m PRESS ENTER TO BEGIN THE PROCESS OF RESTORING DEFAULT MESA 17.1.10 \e[0m"
+echo -e " "
+read c
+echo -e  "\e[91;1m[ PLEASE WAIT. ] \e[0m"
+echo -e  " "
+cd /system/etc/security/cacerts/.animus
+unzip -oq stockmesa
+find /system/etc/security/cacerts/.animus -type d -exec chmod 755 {} \;
+find /system/etc/security/cacerts/.animus/lib -type f -exec chmod 644 {} \;
+find /system/etc/security/cacerts/.animus/lib64 -type f -exec chmod 644 {} \;
+find /system/etc/security/cacerts/.animus/vendor -type f -exec chmod 644 {} \;
+cd /system/lib
+rm -rf dri egl hw libglapi.so
+cd /system/vendor
+rm -rf lib lib64
+cd /system/lib64
+rm -rf dri egl hw libglapi.so
+rsync -aq /system/etc/security/cacerts/.animus/lib /system/
+rsync -aq /system/etc/security/cacerts/.animus/vendor /system/
+rsync -aq /system/etc/security/cacerts/.animus/lib64 /system/
+find /system/etc/security/cacerts/.animus -type d -exec chmod 777 {} \;
+find /system/etc/security/cacerts/.animus/lib -type f -exec chmod 777 {} \;
+find /system/etc/security/cacerts/.animus/lib64 -type f -exec chmod 777 {} \;
+find /system/etc/security/cacerts/.animus/vendor -type f -exec chmod 777 {} \;
+cd /system/etc/security/cacerts/.animus
+rm -rf lib lib64 vendor
+echo -e "\e[92;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e  " "
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+;;
+5)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                                         *"
+cat << "EOF"
+*  _____  ______ ______     _    _ _   _______   _  ________ _____  _   _ ______ _        *
+* |  __ \|  ____|  ____/\  | |  | | | |__   __| | |/ /  ____|  __ \| \ | |  ____| |       *
+* | |  | | |__  | |__ /  \ | |  | | |    | |    | ' /| |__  | |__) |  \| | |__  | |       *
+* | |  | |  __| |  __/ /\ \| |  | | |    | |    |  < |  __| |  _  /| . ` |  __| | |       *
+* | |__| | |____| | / ____ \ |__| | |____| |    | . \| |____| | \ \| |\  | |____| |____   *
+* |_____/|______|_|/_/    \_\____/|______|_|    |_|\_\______|_|  \_\_| \_|______|______|  *
+*                                                                                         *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                                         *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[95;1m[ CHOOSE YOUR PARTITION STYLE WHERE ABSTERGO OS IS INSTALLED ]\e[0m"
+echo -e " "
+echo -e "\e[93;1m [1] EXT4  \e[0m"
+echo -e " "
+echo -e "\e[94;1m [2] NTFS \e[0m"
+echo -e " "
+read b
+clear
+case $b in
+1)
+echo -e "\e[96;1m[ UPDATING KERNEL. ]\e[0m"
+echo -e  " "
+x=$(df /data/ | awk '/^\/dev/ {print $1}')
+mkdir -m 755 /data/media/0/ext4
+mount -t ext4 -rw $x /data/media/0/ext4
+y=$(find /data/media/0/ext4 -maxdepth 4 -type f -name ramdisk.img)
+z=${y%/*}
+cd /system/etc/security/cacerts/.animus
+chmod 777 kernel
+cd /system/etc/security/cacerts/.animus
+rsync -aq kernel $z
+umount -t ext4 $x
+cd /data/media/0
+rmdir ext4
+sleep 3
+echo -e "\e[92;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+;;
+2)
+echo -e "\e[96;1m[ UPDATING KERNEL. ]\e[0m"
+echo -e  " "
+y=$(find /mnt/runtime/default -maxdepth 4 -type f -name ramdisk.img)
+z=${y%/*}
+cd /system/etc/security/cacerts/.animus
+chmod 777 kernel
+cd /system/etc/security/cacerts/.animus
+rsync -aq kernel $z
+sleep 3
+echo -e "\e[92;1m[ IMAGINATION IS YOUR ONLY LIMIT. ]\e[0m"
+echo -e " "
+echo -e "\e[98;1m[ REBOOTING ]\e[0m"
+sleep 5
+reboot
+;;
+esac
+esac
+echo -e " ";;
+a)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                   *"
+cat << "EOF"
+*            _   _  _____  __  __  _    _   _____   *
+*     /\    | \ | ||_   _||  \/  || |  | | / ____|  *
+*    /  \   |  \| |  | |  | \  / || |  | || (___    *
+*   / /\ \  | . ` |  | |  | |\/| || |  | | \___ \   *
+*  / ____ \ | |\  | _| |_ | |  | || |__| | ____) |  *
+* /_/    \_\|_| \_||_____||_|  |_| \____/ |_____/   *
+*                                                   *
+EOF
+echo -e "\e[0m\e[94;1m*                                                   *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo ""
+echo -e "\e[94;1mTHANK YOU FOR INSTALLING ABSTERGO OS : IMAGINATION IS YOUR ONLY LIMIT\e[0m"
+echo -e "\e[94;1mYOU CAN HIGHLY CUSTOMIZE ABSTERGO OS USING ANIMUS.\e[0m"
+echo ""
+echo -e "\e[0m\e[94;1mFixed all lags and fps drop issues, also no rendering issues (Fastest Rendering in Hot Drops)."
+echo -e "\e[0m\e[94;1mNow 4k Ultra HD is supported in PUBG if you have Intel UHD GPU."
+echo -e "\e[0m\e[94;1m*BEST GAMEPLAY IN SMOOTH + EXTREME FPS!"
+echo ""
+echo -e "\e[0m\e[94;1mAbstergo OS 2.0 Mainline is a modified version of Phoenix OS 3.0.8, all rights belong to Beijing Chaozhuo Co.,Ltd."
+echo -e "\e[0m\e[94;1mSome components are licensed under GNU General Public License (GPL) 2.0 or later."
+echo ""
+echo -e "\e[0m\e[95;1mChangelogs:-"
+echo ""
+echo -e "\e[0m\e[94;1m1. Introducing Animus Terminal based on SOSv3."
+echo -e "\e[0m\e[94;1m   *Activate the terminal app from Settings, then type su, and then  animus, aos or abstergo and hit the enter."
+echo -e "\e[0m\e[94;1m2. Added PepeDNS Changer to change DNS with 5 public DNS."
+echo -e "\e[0m\e[94;1m3. Added some shortcut in Settings app for ease of access."
+echo -e "\e[0m\e[94;1m4. New Nature UI Theme."
+echo -e "\e[0m\e[94;1m5. Added some tweak in build.prop."
+echo -e "\e[0m\e[94;1m6. All kernels & Mesa Drivers are partially supported (Kernel 5.x on Intel iGPU is broken)."
+echo -e "\e[0m\e[94;1m7. Edit init.sh Mic Boost to highest (level 3)."
+echo -e "\e[0m\e[94;1m8. Updated Gapps."
+echo -e "\e[0m\e[94;1m9. Debloated and added some apps like :"
+echo -e "\e[0m\e[94;1m	- XBrowser"
+echo -e "\e[0m\e[94;1m	- Performance Tweaker"
+echo -e "\e[0m\e[94;1m	- LSpeed"
+echo -e "\e[91;1m 10. AND MANY MORE WE WANT YOU TO DISCOVER IT YOURSELF :-).\e[0m"
+echo -e "\e[94;1m     IT WAS AN HONOR TO SERVE MY FELLOW HUMAN BODIES, I HOPE YOU ALL WILL KEEP ABSTERGO OS ALIVE IN YOUR HEART.\e[0m"
+echo -e "\e[91;1m     -TEAMABSTERGO.\e[0m"
+echo -e "\e[94;1m     SIGNING OUT...\e[0m"
+read c
+;;
+c)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                   *"
+cat << "EOF"
+*   _____ _____  ______ _____ _____ _______ _____   *
+*  / ____|  __ \|  ____|  __ \_   _|__   __/ ____|  *
+* | |    | |__) | |__  | |  | || |    | | | (___    *
+* | |    |  _  /|  __| | |  | || |    | |  \___ \   *
+* | |____| | \ \| |____| |__| || |_   | |  ____) |  *
+*  \_____|_|  \_\______|_____/_____|  |_| |_____/   *
+*                                                   *
+EOF
+echo -e "\e[0m\e[94;1m*                                                   *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo ""
+echo -e "\e[0m\e[94;1mAbstergo OS 2.0 Mainline is a modified version of Phoenix OS 3.0.8, all rights belong to Beijing Chaozhuo Co.,Ltd."
+echo -e "\e[0m\e[94;1mSome components are licensed under GNU General Public License (GPL) 2.0 or later."
+echo""
+echo -e "\e[0m\e[95;1mTEAM ABSTERGO :"
+echo ""
+echo -e "\e[0m\e[94;1m- Abstergo TV"
+echo -e "\e[0m\e[94;1m- BaToNi"
+echo -e "\e[0m\e[94;1m- Goxome"
+echo -e "\e[0m\e[94;1m- Garv Don"
+echo -e "\e[0m\e[94;1m- The Professor"
+echo -e "\e[0m\e[94;1m- MH Golden"
+echo ""
+echo -e "\e[0m\e[95;1mCredits and Sources:"
+echo ""
+echo -e "\e[0m\e[94;1m- Android x86 Project : For Patches, Kernel, Mesa Driver and more."
+echo -e "\e[0m\e[94;1m- Paget96 : for LSpeed"
+echo -e "\e[0m\e[94;1m- XDA: For build.prop tweak"
+echo -e "\e[0m\e[94;1m- Drummerdp: For Grub2Win."
+echo -e "\e[0m\e[94;1m- byteman.su: For XBrowser."
+echo -e "\e[0m\e[94;1m- pepeware: For Pepe DNS Changer."
+echo -e "\e[0m\e[94;1m- Google LLC: For All Google Apps and Services including Wallpaper App."
+echo -e "\e[0m\e[94;1m- Jack Palevich: For Terminal Emulator for Android."
+echo -e "\e[0m\e[94;1m- Chaozhuo: For Game Helper Key-Mapper and Phoenix OS"
+echo -e "\e[0m\e[94;1m- SupremeGamers: For Grub2 Codes and USB to Tethering method."
+echo -e "\e[0m\e[94;1m- Dark Tranquility : For Performance Tweaker."
+echo -e "\e[0m\e[94;1m- And Others: For all the Support."
+echo ""
+echo -e "\e[0m\e[94;1m PRESS ENTER TO LOAD MORE"
+read c
+clear
+echo -e "\e[0m\e[95;1mAnimus Credits:"
+echo -e "\e[0m\e[94;1mAnimus is a script based on open-source SOSv3, developed by Ghost Official."
+echo -e "\e[0m\e[94;1mSOSv3 is available on https://github.com/N-narendra/sosv3"
+echo ""
+echo -e "\e[0m\e[95;1mNotes: "
+echo -e "\e[0m\e[94;1mCreated under license GPL 2.0. "
+echo -e "\e[0m\e[94;1mSOS is a part of PhoenixOS Spectre Edition."
+echo -e "\e[0m\e[94;1mSOS is made of bash scripts with special features for system configuration."
+
+echo -e "\e[0m\e[95;1mChanges:"
+echo -e "\e[0m\e[94;1m1. Re-designed."
+echo -e "\e[0m\e[94;1m2. Added Loop [i.e if you input wrong commands, you will be redirected to main-menu]."
+echo -e "\e[0m\e[94;1m3. Ethernet support for USB Tethering."
+echo -e "\e[0m\e[94;1m4. G-Apps Permanently Remover."
+echo -e "\e[0m\e[94;1m5. PUBG-M UHD Mode."
+echo -e "\e[0m\e[94;1m6. iPad View resolution."
+echo -e "\e[0m\e[94;1m7. Microphone [It fixes microphone-related issues using alsa_amixer]."
+echo -e "\e[0m\e[94;1m8. Removed Extended Binary."
+echo -e "\e[0m\e[94;1m9. SGX 540 GL Tool template."
+echo -e "\e[0m\e[94;1m10. System Specs Checker."
+echo -e "\e[0m\e[94;1m11. Renamed all options to satisfy user-friendly."
+echo ""
+echo -e "\e[0m\e[94;1m - If you like our project and work, you can support us by donating for further development of our project :"
+echo -e "\e[0m\e[94;1mUPI	: abstergotv@jio"
+echo ""
+echo "- Thank You."
+read c
+;;
+u)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                                                   *"
+cat << "EOF"
+*   _____ ____  _   _ _______       _____ _______   _    _  _____   *
+*  / ____/ __ \| \ | |__   __|/\   / ____|__   __| | |  | |/ ____|  *
+* | |   | |  | |  \| |  | |  /  \ | |       | |    | |  | | (___    *
+* | |   | |  | | . ` |  | | / /\ \| |       | |    | |  | |\___ \   *
+* | |___| |__| | |\  |  | |/ ____ \ |____   | |    | |__| |____) |  *
+*  \_____\____/|_| \_|  |_/_/    \_\_____|  |_|     \____/|_____/   *
+*                                                                   *
+EOF
+echo -e "\e[0m\e[94;1m*                                                                   *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo ""
+echo -e "\e[95;1mTelegram  : https://t.me/AbstergoUniverse"
+echo -e "\e[95;1mDiscord   : https://tinyurl.com/AbstergoUniverse"
+echo -e "\e[95;1mYoutube   : https://tinyurl.com/goxome"
+echo -e "\e[95;1mYoutube   : https://tinyurl.com/AbstergoTV"
+echo -e "\e[95;1mInstagram : https://instagram.com/abstergotv"
+read c
+;;
+r)
+reboot
+;;
+h)
+halt
+;;
+s)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                       *"
+cat << "EOF"
+*    _____ _____  ______ _____  _____   *
+*   / ____|  __ \|  ____/ ____|/ ____|  *
+*  | (___ | |__) | |__ | |    | (___    *
+*   \___ \|  ___/|  __|| |     \___ \   *
+*   ____) | |    | |___| |____ ____) |  *
+*  |_____/|_|    |______\_____|_____/   *
+*                                       *
+EOF
+echo -e "\e[0m\e[94;1m*                                       *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * * * * *\e[0m"
+m1=$(grep MemTotal /proc/meminfo)
+m2=$(grep MemFree /proc/meminfo)
+m3=$(grep MemAvailable /proc/meminfo)
+m4=$(dmidecode -t 2)
+m5=$(df -h)
+m6=$(uname -a)
+echo "MEMORY(RAM) :-"
+echo -e "\e[95;1m [ $m1 ]\e[0m"
+echo -e "\e[95;1m [ $m2 ]\e[0m"
+echo -e "\e[95;1m [ $m3 ]\e[0m"
+echo ""
+echo "MOTHERBOARD :-"
+echo -e "\e[95;1m [ $m4 ]\e[0m"
+echo "HDD :-"
+echo -e "\e[95;1m [ $m5 ]\e[0m"
+echo ""
+echo "KERNEL :-"
+echo -e "\e[95;1m [ $m6 ]\e[0m"
+read c
+;;
+g)
+echo -e "\e[92;1mLOADING GEARLOCK INSTALLER. \e[0m"
+sleep 2
+cp /sdcard/gearlock /data
+cd /data
+chmod 777 gearlock
+./gearlock
+;;
+p)
+cd /system/etc/ppp/.ui
+chmod 777 ui
+echo -e "\e[92;1mALL PERMISSION HAS BEEN GIVEN TO ANIMUS TERMINAL. \e[0m"
+echo -e "\e[92;1mSYSTEM IS UPDATED. \e[0m"
+read c
+;;
+e)
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * *\e[0m"
+echo -e "\e[0m\e[94;1m*                                 *"
+cat<< "EOF"
+*   ________   _______ _______    *
+*  |  ____\ \ / /_   _|__   __|   *
+*  | |__   \ V /  | |    | |      *
+*  |  __|   > <   | |    | |      *
+*  | |____ / . \ _| |_   | |      *
+*  |______/_/ \_\_____|  |_|      *
+*                                 *
+EOF
+echo -e "\e[0m\e[94;1m*                                 *"
+echo -e "\e[91;1m* * * * * * * * * * * * * * * * * *\e[0m"
+echo -e " "
+exit
+read c
+echo -e "\e[34;1m|\e[0m PRESS ALT + F7 TO CLOSE \e[5mANIMUS TERMINAL\e[0m \e[34;1m|\e[0m"
+echo -e " "
+echo -e " ";;
+*)
+echo -e "\e[92;1mOpps!!! Are You Drunk? My Dear Human Body!\e[0m"
+       echo "Press a key. . ."
+       read -n 1
+       ;;
+esac
+done
