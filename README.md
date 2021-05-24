@@ -34,5 +34,5 @@ Animus is made of bash scripts with special Feature for system configuration.
 3) Kernel,Mesa,Extreme Mode Etc...  Done By Spectre. 
 4) Thanks To ICY Where TO Contribute with his compiled Mesa and Kernel.
 5) Modified and coded by @abstergo to Animus.
-6) 
+
 Thanks to all GhostXofficial Members for the Support. 
