@@ -14,7 +14,7 @@ Animus is made of bash scripts with special Feature for system configuration.
 5) system tweaks to tweak system settings.
 
 **Changes:-**
-1) Re-designed.
+1) Cool-designe.
 2) Added Loop [i.e if you input wrong commands, you will be redirected to main-menu].
 3) Ethernet support for USB Tethering.
 4) G-Apps Permanently Remover.
@@ -28,9 +28,8 @@ Animus is made of bash scripts with special Feature for system configuration.
 
 **Credits:-**
 1) Special Thanks To PhoenixOS & PrimeOS Team and Android X86.
-2) SOS Coded By Narendra,Spectre & Daksh.
 3) Kernel,Mesa,Extreme Mode Etc...  Done By Spectre. 
 4) Thanks To ICY Where TO Contribute with his compiled Mesa and Kernel.
-5) Modified and coded by @abstergo to Animus.
+5) Coded by @abstergo to Animus.
 
-Thanks to all GhostXofficial Members for the Support. 
+Thanks to all members for the Support. 
