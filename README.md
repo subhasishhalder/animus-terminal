@@ -1,6 +1,4 @@
 # Animus
-Animus is a script based on open-source SOSv3, developed by Ghost Official.
-SOSv3 is available on https://github.com/N-narendra/sosv3
 
 **Notes:-**
 Created under license GPL 2.0. 
